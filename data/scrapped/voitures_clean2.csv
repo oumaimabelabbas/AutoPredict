@@ -248,6 +248,7 @@ Casablanca,2019,Automatique,Diesel,124999.5,Audi,A5,3.0,WW au Maroc,Oui,8,315000
 Rabat,2018,Automatique,Diesel,224999.5,Peugeot,508,5.0,WW au Maroc,Non,8,139000
 Casablanca,2016,Automatique,Diesel,97499.5,Mercedes-Benz,Classe A,5.0,WW au Maroc,Oui,6,210000
 Marrakech,2019,Automatique,Diesel,114999.5,Jeep,Grand Cherokee,5.0,WW au Maroc,Oui,12,210000
+Marrakech,2013,Automatique,Diesel,154999.5,Mini,Countryman,3.0,Importée neuve,Non,8,148000
 Marrakech,2018,Automatique,Diesel,87499.5,DS,100,5.0,WW au Maroc,Non,8,265000
 Fès,2024,Manuelle,Diesel,32499.5,Dacia,Logan,5.0,WW au Maroc,Oui,6,163000
 Casablanca,2022,Automatique,Diesel,42499.5,Volkswagen,Golf 8,5.0,WW au Maroc,Oui,8,317000
@@ -264,6 +265,7 @@ Safi,2021,Automatique,Diesel,57499.5,Skoda,Superb,5.0,WW au Maroc,Oui,8,240000
 Ouarzazate,2007,Automatique,Diesel,2499.5,Volkswagen,Golf 5,5.0,Dédouanée,Non,8,110000
 Marrakech,2013,Manuelle,Essence,17499.5,Nissan,Juke,5.0,WW au Maroc,Oui,8,1100000
 Casablanca,2015,Manuelle,Diesel,22499.5,Jeep,Renegade,5.0,WW au Maroc,Non,6,120500
+Fès,2022,Automatique,Diesel,194999.5,Kia,Sorento,5.0,WW au Maroc,Non,9,405000
 Casablanca,2021,Automatique,Diesel,97499.5,Jeep,Wrangler,5.0,WW au Maroc,Oui,9,455000
 Agadir,2019,Manuelle,Diesel,124999.5,Dacia,Lodgy,5.0,WW au Maroc,Non,6,138000
 Marrakech,2016,Automatique,Diesel,224999.5,Honda,CR-V,5.0,WW au Maroc,Non,6,185000
@@ -489,6 +491,7 @@ Casablanca,2018,Manuelle,Diesel,27499.5,Renault,Clio,5.0,WW au Maroc,Oui,6,12800
 Meknès,2014,Automatique,Diesel,174999.5,Renault,Megane,5.0,WW au Maroc,Non,6,110000
 Tanger,2019,Manuelle,Diesel,194999.5,Volkswagen,Touran,5.0,Dédouanée,Oui,6,225000
 Khouribga,2020,Automatique,Diesel,124999.5,Mercedes-Benz,Classe GLA,5.0,Dédouanée,Oui,9,479000
+Rabat,2016,Manuelle,Diesel,97499.5,Hyundai,ix35,5.0,WW au Maroc,Non,8,145000
 Rabat,2016,Manuelle,Essence,114999.5,Peugeot,208,5.0,WW au Maroc,Non,5,78000
 Casablanca,2022,Manuelle,Diesel,42499.5,Renault,Captur,5.0,WW au Maroc,Oui,6,210000
 Casablanca,2022,Automatique,Diesel,57499.5,Skoda,Kodiaq,5.0,WW au Maroc,Oui,8,399000
@@ -509,6 +512,7 @@ Casablanca,2021,Automatique,Hybride,97499.5,Toyota,RAV-4,5.0,WW au Maroc,Oui,14,
 Casablanca,2018,Manuelle,Diesel,27499.5,Renault,Clio,5.0,WW au Maroc,Oui,6,128000
 Tanger,2019,Manuelle,Diesel,194999.5,Volkswagen,Touran,5.0,Dédouanée,Oui,6,225000
 Khouribga,2020,Automatique,Diesel,124999.5,Mercedes-Benz,Classe GLA,5.0,Dédouanée,Oui,9,479000
+Rabat,2016,Manuelle,Diesel,97499.5,Hyundai,ix35,5.0,WW au Maroc,Non,8,145000
 El Jadida,1996,Manuelle,Diesel,144999.5,Fiat,126,5.0,WW au Maroc,Non,7,30000
 Rabat,2016,Manuelle,Essence,114999.5,Peugeot,208,5.0,WW au Maroc,Non,5,78000
 Casablanca,2022,Manuelle,Diesel,42499.5,Renault,Captur,5.0,WW au Maroc,Oui,6,210000
@@ -532,6 +536,7 @@ Casablanca,2018,Manuelle,Diesel,27499.5,Renault,Clio,5.0,WW au Maroc,Oui,6,12800
 Meknès,2014,Automatique,Diesel,174999.5,Renault,Megane,5.0,WW au Maroc,Non,6,110000
 Tanger,2019,Manuelle,Diesel,194999.5,Volkswagen,Touran,5.0,Dédouanée,Oui,6,225000
 Khouribga,2020,Automatique,Diesel,124999.5,Mercedes-Benz,Classe GLA,5.0,Dédouanée,Oui,9,479000
+Rabat,2016,Manuelle,Diesel,97499.5,Hyundai,ix35,5.0,WW au Maroc,Non,8,145000
 El Jadida,1996,Manuelle,Diesel,144999.5,Fiat,126,5.0,WW au Maroc,Non,7,30000
 Rabat,2016,Manuelle,Essence,114999.5,Peugeot,208,5.0,WW au Maroc,Non,5,78000
 Casablanca,2022,Manuelle,Diesel,42499.5,Renault,Captur,5.0,WW au Maroc,Oui,6,210000
@@ -984,5 +989,1080 @@ Casablanca,2019,Automatique,Diesel,77499.5,Peugeot,3008,5.0,WW au Maroc,Oui,8,24
 Casablanca,2021,Automatique,Diesel,52499.5,Ford,Kuga,5.0,WW au Maroc,Oui,8,243000
 Casablanca,2025,Manuelle,Diesel,7499.5,Dacia,Sandero,5.0,WW au Maroc,Oui,6,170000
 Casablanca,2022,Automatique,Diesel,104999.5,Citroën,C4,5.0,WW au Maroc,Non,6,215000
+Rabat,2016,Manuelle,Diesel,97499.5,Hyundai,ix35,5.0,WW au Maroc,Non,8,145000
 Casablanca,2021,Manuelle,Diesel,114999.5,Renault,Clio,5.0,WW au Maroc,Oui,6,159000
 Casablanca,2010,Manuelle,Diesel,324999.5,Opel,Insignia,5.0,WW au Maroc,Non,8,74000
+Tétouan,2022,Automatique,Diesel,97499.5,Audi,A4,5.0,WW au Maroc,Oui,8,330000
+Casablanca,2021,Automatique,Diesel,82499.5,BMW,Série 5,5.0,WW au Maroc,Oui,8,450000
+Rabat,2023,Manuelle,Diesel,42499.5,Fiat,Fiorino,3.0,WW au Maroc,Oui,6,114000
+Kénitra,2022,Automatique,Essence,52499.5,Ford,Mustang,3.0,Dédouanée,Oui,13,390000
+Casablanca,2021,Manuelle,Diesel,72499.5,Opel,Grandland,5.0,WW au Maroc,Oui,6,230000
+Casablanca,2022,Automatique,Essence,42499.5,Nissan,Qashqai,5.0,WW au Maroc,Oui,8,249000
+Casablanca,2022,Manuelle,Essence,62499.5,Volkswagen,Polo,5.0,WW au Maroc,Non,6,160000
+Casablanca,2022,Manuelle,Diesel,92499.5,Seat,Arona,5.0,WW au Maroc,Oui,6,198000
+Casablanca,2023,Manuelle,Essence,57499.5,Kia,Picanto,5.0,WW au Maroc,Oui,6,129000
+Casablanca,2025,Automatique,Essence,32499.5,Changan,CS55,5.0,WW au Maroc,Oui,9,235000
+Casablanca,2017,Automatique,Diesel,114999.5,BMW,Série 7,5.0,WW au Maroc,Oui,12,460000
+Casablanca,1992,Manuelle,Diesel,224999.5,Mercedes-Benz,190,5.0,WW au Maroc,Non,9,39000
+Casablanca,2021,Automatique,Diesel,82499.5,BMW,Série 3,5.0,WW au Maroc,Oui,8,360000
+Rabat,2017,Manuelle,Diesel,154999.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,7,208000
+Rabat,2019,Manuelle,Diesel,37499.5,Citroën,C3,5.0,WW au Maroc,Non,6,130000
+Fès,2020,Manuelle,Diesel,87499.5,Opel,Corsa,5.0,WW au Maroc,Non,6,154000
+Casablanca,2021,Manuelle,Diesel,144999.5,Renault,Clio,5.0,WW au Maroc,Oui,6,150000
+Casablanca,2017,Automatique,Diesel,104999.5,Mercedes-Benz,220,5.0,WW au Maroc,Oui,9,380000
+Casablanca,2021,Automatique,Diesel,144999.5,Peugeot,3008,5.0,WW au Maroc,Oui,8,285000
+Casablanca,2021,Automatique,Diesel,104999.5,Hyundai,Accent,5.0,WW au Maroc,Oui,6,159000
+Casablanca,1987,Manuelle,Diesel,47499.5,Peugeot,309,5.0,WW au Maroc,Non,7,28000
+Meknès,2020,Automatique,Diesel,104999.5,Mercedes-Benz,Classe CLA,5.0,WW au Maroc,Non,8,370000
+Meknès,2019,Automatique,Diesel,164999.5,Mercedes-Benz,Classe C,5.0,Dédouanée,Oui,9,415000
+Casablanca,2021,Automatique,Essence,62499.5,Fiat,500,3.0,WW au Maroc,Oui,7,148000
+Casablanca,2022,Manuelle,Diesel,77499.5,Seat,Arona,5.0,WW au Maroc,Oui,6,198000
+Casablanca,2022,Automatique,Hybride,114999.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,9,253000
+Casablanca,2023,Automatique,Essence,42499.5,Kia,Sonet,5.0,WW au Maroc,Oui,9,196000
+Casablanca,2017,Automatique,Diesel,194999.5,Audi,A4,5.0,WW au Maroc,Oui,8,225000
+Tétouan,2020,Manuelle,Diesel,47499.5,Ford,Kuga,5.0,WW au Maroc,Oui,6,220000
+Agadir,2022,Manuelle,Essence,97499.5,Kia,Picanto,5.0,WW au Maroc,Non,6,112000
+Agadir,2020,Manuelle,Essence,42499.5,Toyota,Yaris,5.0,WW au Maroc,Oui,6,125000
+Casablanca,2023,Automatique,Diesel,104999.5,Kia,Seltos,5.0,WW au Maroc,Oui,6,217000
+Casablanca,2021,Automatique,Diesel,52499.5,Kia,Sorento,5.0,WW au Maroc,Oui,8,325000
+Casablanca,2022,Automatique,Diesel,114999.5,Peugeot,3008,5.0,WW au Maroc,Oui,8,270000
+Tanger,2020,Automatique,Diesel,134999.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Oui,12,455000
+Casablanca,2016,Automatique,Essence,154999.5,Mini,Cooper,5.0,WW au Maroc,Non,7,147000
+Casablanca,2021,Automatique,Essence,52499.5,Abarth,595,3.0,WW au Maroc,Non,8,209000
+Casablanca,2016,Automatique,Diesel,97499.5,Alfa Romeo,Giulietta,5.0,WW au Maroc,Oui,8,150000
+Agadir,2016,Manuelle,Diesel,184999.5,Hyundai,Creta,5.0,WW au Maroc,Non,6,170000
+Casablanca,2015,Automatique,Diesel,114999.5,BMW,Série 4,5.0,WW au Maroc,Non,8,226000
+Tanger,2017,Automatique,Diesel,184999.5,BMW,X1,5.0,WW au Maroc,Oui,8,240000
+Casablanca,2019,Automatique,Diesel,124999.5,DS,100,5.0,WW au Maroc,Oui,8,218000
+Casablanca,2020,Automatique,Diesel,72499.5,Audi,Q2,5.0,WW au Maroc,Oui,8,267000
+Rabat,2020,Manuelle,Diesel,42499.5,Opel,Astra,5.0,WW au Maroc,Oui,6,187000
+Agadir,2015,Automatique,Diesel,194999.5,Renault,Fluence,5.0,WW au Maroc,Non,6,113000
+Casablanca,2021,Automatique,Diesel,87499.5,Volkswagen,T-Roc,5.0,WW au Maroc,Oui,8,268000
+Casablanca,2020,Automatique,Diesel,134999.5,Hyundai,Accent,5.0,WW au Maroc,Oui,6,148000
+Casablanca,2022,Manuelle,Essence,104999.5,Kia,Picanto,5.0,WW au Maroc,Oui,6,98000
+Casablanca,2020,Automatique,Diesel,57499.5,Jeep,Renegade,5.0,WW au Maroc,Oui,6,228000
+Casablanca,2021,Automatique,Diesel,134999.5,Jeep,Cherokee,5.0,WW au Maroc,Non,9,247000
+Agadir,2017,Automatique,Diesel,104999.5,Renault,Clio,5.0,WW au Maroc,Non,6,130000
+Casablanca,2023,Manuelle,Diesel,32499.5,Renault,Clio,5.0,WW au Maroc,Oui,6,168000
+Casablanca,2017,Automatique,Diesel,174999.5,Porsche,Cayenne,5.0,WW au Maroc,Non,12,360000
+Casablanca,2024,Manuelle,Diesel,27499.5,Opel,Corsa,5.0,WW au Maroc,Oui,6,168000
+Fès,2024,Automatique,Diesel,7499.5,BMW,Série 2,5.0,WW au Maroc,Oui,8,410000
+Casablanca,2024,Automatique,Diesel,27499.5,Mercedes-Benz,Classe A,5.0,WW au Maroc,Oui,7,3650000
+Casablanca,2021,Manuelle,Diesel,67499.5,Fiat,Fiorino,5.0,WW au Maroc,Oui,5,115000
+Fès,2021,Automatique,Diesel,184999.5,Mercedes-Benz,Classe E,5.0,WW au Maroc,Oui,8,369000
+Casablanca,2019,Manuelle,Essence,62499.5,Skoda,Fabia,5.0,WW au Maroc,Non,6,115000
+Temara,2022,Automatique,Diesel,52499.5,Land Rover,Range Rover Evoque,5.0,WW au Maroc,Oui,8,410000
+Tétouan,2023,Automatique,Diesel,32499.5,BMW,Série 5,5.0,WW au Maroc,Non,9,440000
+Marrakech,2021,Automatique,Diesel,124999.5,Ford,Kuga,5.0,WW au Maroc,Oui,6,228000
+Casablanca,2016,Manuelle,Diesel,134999.5,Toyota,Corolla,5.0,WW au Maroc,Non,5,146000
+Rabat,2015,Manuelle,Diesel,154999.5,Ford,Focus,5.0,WW au Maroc,Non,6,126000
+Casablanca,2022,Automatique,Hybride,124999.5,Toyota,Corolla,5.0,WW au Maroc,Non,10,207000
+Casablanca,2019,Manuelle,Diesel,134999.5,Renault,Clio,5.0,WW au Maroc,Non,6,118000
+Tétouan,2023,Manuelle,Diesel,114999.5,Dacia,Sandero,5.0,WW au Maroc,Oui,6,148000
+Casablanca,2018,Automatique,Diesel,164999.5,Porsche,Cayenne,5.0,WW au Maroc,Non,12,380000
+Casablanca,2022,Automatique,Essence,62499.5,BMW,Série 4,5.0,WW au Maroc,Oui,17,740000
+Casablanca,2024,Automatique,Hybride,37499.5,Hyundai,Elantra,5.0,WW au Maroc,Oui,9,249000
+Fès,2022,Automatique,Hybride,67499.5,Kia,K5,5.0,WW au Maroc,Oui,7,249000
+Casablanca,2020,Manuelle,Diesel,184999.5,Dacia,Dokker,3.0,WW au Maroc,Oui,6,117000
+Casablanca,2024,Automatique,Essence,17499.5,Fiat,500,3.0,WW au Maroc,Oui,7,165000
+Rabat,2020,Automatique,Diesel,154999.5,BMW,Série 5,5.0,WW au Maroc,Non,8,310000
+Agadir,2018,Automatique,Diesel,134999.5,Nissan,Qashqai,5.0,WW au Maroc,Non,6,215000
+Agadir,2006,Manuelle,Diesel,274999.5,Citroën,C4,5.0,WW au Maroc,Non,6,68000
+Casablanca,2013,Automatique,Diesel,224999.5,Jaguar,XF,5.0,WW au Maroc,Non,8,128000
+Casablanca,2021,Manuelle,Diesel,104999.5,Kia,Sportage,5.0,WW au Maroc,Oui,6,198000
+Tétouan,2019,Manuelle,Diesel,92499.5,Iveco,Daily,5.0,WW au Maroc,Oui,10,275000
+Casablanca,2025,Automatique,Hybride,2499.5,Toyota,Corolla,5.0,WW au Maroc,Oui,8,285000
+Casablanca,2022,Manuelle,Diesel,97499.5,Dacia,Lodgy,5.0,WW au Maroc,Oui,6,166000
+Casablanca,2020,Automatique,Hybride,77499.5,Toyota,C-HR,5.0,WW au Maroc,Oui,10,225000
+Casablanca,2019,Automatique,Diesel,104999.5,Volkswagen,Touareg,5.0,WW au Maroc,Non,12,430000
+Casablanca,2022,Manuelle,Diesel,42499.5,Renault,Captur,5.0,WW au Maroc,Oui,6,210000
+Casablanca,2021,Manuelle,Diesel,92499.5,Renault,Captur,5.0,WW au Maroc,Oui,6,178000
+Khouribga,2020,Manuelle,Diesel,164999.5,Peugeot,308,5.0,WW au Maroc,Non,6,145000
+Casablanca,2022,Manuelle,Diesel,47499.5,Seat,Arona,3.0,WW au Maroc,Oui,6,212000
+Casablanca,2023,Manuelle,Diesel,32499.5,Renault,Captur,5.0,WW au Maroc,Oui,6,244000
+Casablanca,2019,Automatique,Diesel,97499.5,Hyundai,Santa Fe,5.0,WW au Maroc,Non,9,260000
+Casablanca,2021,Automatique,Diesel,82499.5,Kia,Seltos,5.0,WW au Maroc,Oui,6,259000
+Casablanca,2020,Automatique,Diesel,97499.5,Volkswagen,Tiguan,5.0,WW au Maroc,Oui,8,285000
+Casablanca,2022,Automatique,Diesel,124999.5,Kia,Sportage,5.0,WW au Maroc,Non,6,255000
+Casablanca,2023,Automatique,Diesel,37499.5,Audi,Q5,5.0,WW au Maroc,Oui,8,749000
+Casablanca,2021,Automatique,Diesel,87499.5,Ford,Kuga,5.0,WW au Maroc,Oui,6,264000
+Agadir,2020,Manuelle,Diesel,87499.5,Peugeot,Rifter,3.0,WW au Maroc,Non,6,167000
+Casablanca,2018,Manuelle,Diesel,82499.5,Nissan,Qashqai,5.0,WW au Maroc,Non,6,195000
+Marrakech,2014,Automatique,Diesel,174999.5,Porsche,Cayenne,5.0,Dédouanée,Non,12,250000
+Casablanca,2014,Manuelle,Diesel,224999.5,Nissan,Juke,5.0,WW au Maroc,Oui,6,115000
+Casablanca,2018,Automatique,Diesel,144999.5,Volkswagen,Golf 7,5.0,WW au Maroc,Oui,8,165000
+تطوان,2021,Manuelle,Diesel,57499.5,Fiat,Fiorino,5.0,WW au Maroc,Non,6,125000
+Casablanca,2023,Automatique,Diesel,62499.5,Audi,A3,5.0,WW au Maroc,Non,8,370000
+Casablanca,2021,Automatique,Diesel,77499.5,Audi,Q3,5.0,WW au Maroc,Oui,8,390000
+Casablanca,2021,Automatique,Diesel,97499.5,Jeep,Wrangler,5.0,WW au Maroc,Oui,9,455000
+Casablanca,2021,Automatique,Diesel,104999.5,Renault,Koleos,5.0,WW au Maroc,Non,8,246000
+Tétouan,2012,Manuelle,Diesel,274999.5,Citroën,C4,5.0,WW au Maroc,Non,6,98000
+Casablanca,2022,Automatique,Diesel,104999.5,Hyundai,Accent,5.0,WW au Maroc,Oui,6,155000
+Casablanca,2022,Automatique,Diesel,57499.5,Skoda,Kodiaq,5.0,WW au Maroc,Oui,8,418000
+Casablanca,2024,Automatique,Essence,27499.5,Geely,Coolray,5.0,WW au Maroc,Oui,9,215000
+Oujda,2010,Automatique,Diesel,274999.5,Volkswagen,Touareg,5.0,Importée neuve,Oui,12,109000
+Casablanca,2022,Manuelle,Diesel,77499.5,Seat,Arona,5.0,WW au Maroc,Oui,6,198000
+Oujda,2017,Automatique,Diesel,104999.5,Volkswagen,Jetta,5.0,Importée neuve,Non,8,159000
+Casablanca,2024,Automatique,Electrique,17499.5,Renault,Megane,5.0,WW au Maroc,Oui,8,345000
+Casablanca,2023,Automatique,Diesel,32499.5,Hyundai,IONIQ 5,5.0,WW au Maroc,Oui,9,440000
+Casablanca,2016,Automatique,Diesel,124999.5,BMW,Série 4,5.0,WW au Maroc,Oui,8,250000
+Casablanca,2024,Automatique,Essence,12499.5,Fiat,500,3.0,WW au Maroc,Oui,7,159000
+Casablanca,2021,Automatique,Electrique,32499.5,Citroën,Ami,3.0,WW au Maroc,Oui,4,65000
+Agadir,2020,Automatique,Diesel,144999.5,Skoda,Karoq,5.0,Dédouanée,Oui,6,278000
+Casablanca,2023,Automatique,Diesel,62499.5,Audi,A3,5.0,WW au Maroc,Non,8,370000
+Casablanca,2021,Automatique,Diesel,77499.5,Audi,Q3,5.0,WW au Maroc,Oui,8,390000
+Casablanca,2022,Automatique,Diesel,104999.5,Hyundai,Accent,5.0,WW au Maroc,Oui,6,155000
+Oujda,2010,Automatique,Diesel,274999.5,Volkswagen,Touareg,5.0,Importée neuve,Oui,12,109000
+Oujda,2017,Automatique,Diesel,104999.5,Volkswagen,Jetta,5.0,Importée neuve,Non,8,159000
+Fquih Ben Saleh,2024,Manuelle,Diesel,52499.5,Renault,Clio,5.0,WW au Maroc,Non,6,200000
+Casablanca,2024,Automatique,Hybride,22499.5,Kia,Niro,5.0,WW au Maroc,Oui,9,249000
+Casablanca,2018,Automatique,Diesel,164999.5,Porsche,Cayenne,5.0,WW au Maroc,Non,12,380000
+Casablanca,2022,Automatique,Essence,62499.5,BMW,Série 4,5.0,WW au Maroc,Oui,17,740000
+Casablanca,2024,Automatique,Hybride,37499.5,Hyundai,Elantra,5.0,WW au Maroc,Oui,9,249000
+Fès,2022,Automatique,Hybride,67499.5,Kia,K5,5.0,WW au Maroc,Oui,7,249000
+Casablanca,2020,Manuelle,Diesel,184999.5,Dacia,Dokker,3.0,WW au Maroc,Oui,6,117000
+Casablanca,2024,Automatique,Essence,17499.5,Fiat,500,3.0,WW au Maroc,Oui,7,165000
+Rabat,2020,Automatique,Diesel,154999.5,BMW,Série 5,5.0,WW au Maroc,Non,8,310000
+Agadir,2018,Automatique,Diesel,134999.5,Nissan,Qashqai,5.0,WW au Maroc,Non,6,215000
+Agadir,2006,Manuelle,Diesel,274999.5,Citroën,C4,5.0,WW au Maroc,Non,6,68000
+Casablanca,2013,Automatique,Diesel,224999.5,Jaguar,XF,5.0,WW au Maroc,Non,8,128000
+Casablanca,2021,Manuelle,Diesel,104999.5,Kia,Sportage,5.0,WW au Maroc,Oui,6,198000
+Casablanca,2018,Automatique,Essence,104999.5,Fiat,500,5.0,WW au Maroc,Oui,7,107000
+Salé,2023,Automatique,Diesel,52499.5,Jaguar,F-Pace,5.0,WW au Maroc,Non,8,520000
+Casablanca,2021,Automatique,Diesel,82499.5,BMW,Série 5,5.0,WW au Maroc,Oui,8,450000
+Casablanca,2022,Automatique,Diesel,72499.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,295000
+Rabat,2023,Manuelle,Diesel,42499.5,Fiat,Fiorino,3.0,WW au Maroc,Oui,6,114000
+Casablanca,2021,Manuelle,Diesel,114999.5,Citroën,C3,5.0,WW au Maroc,Oui,8,166000
+Kénitra,2022,Automatique,Essence,52499.5,Ford,Mustang,3.0,Dédouanée,Oui,13,390000
+Casablanca,2020,Automatique,Hybride,97499.5,Porsche,Cayenne,5.0,WW au Maroc,Oui,17,720000
+Casablanca,2021,Manuelle,Diesel,97499.5,Peugeot,301,5.0,WW au Maroc,Oui,6,127000
+Casablanca,2021,Manuelle,Diesel,72499.5,Opel,Grandland,5.0,WW au Maroc,Oui,6,230000
+Casablanca,2022,Automatique,Essence,42499.5,Nissan,Qashqai,5.0,WW au Maroc,Oui,8,249000
+Casablanca,2022,Manuelle,Essence,62499.5,Volkswagen,Polo,5.0,WW au Maroc,Non,6,160000
+Casablanca,2022,Manuelle,Diesel,82499.5,Peugeot,208,5.0,WW au Maroc,Non,6,148000
+Casablanca,2022,Manuelle,Diesel,92499.5,Seat,Arona,5.0,WW au Maroc,Oui,6,198000
+Casablanca,2020,Automatique,Diesel,124999.5,Volkswagen,Tiguan,5.0,Dédouanée,Non,8,300000
+Rabat,2017,Manuelle,Diesel,154999.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,7,208000
+Rabat,2019,Manuelle,Diesel,37499.5,Citroën,C3,5.0,WW au Maroc,Non,6,130000
+Fès,2020,Manuelle,Diesel,87499.5,Opel,Corsa,5.0,WW au Maroc,Non,6,154000
+Casablanca,2021,Manuelle,Diesel,144999.5,Renault,Clio,5.0,WW au Maroc,Oui,6,150000
+Casablanca,2021,Automatique,Diesel,144999.5,Peugeot,3008,5.0,WW au Maroc,Oui,8,285000
+Casablanca,2021,Automatique,Diesel,104999.5,Hyundai,Accent,5.0,WW au Maroc,Oui,6,159000
+Casablanca,1987,Manuelle,Diesel,47499.5,Peugeot,309,5.0,WW au Maroc,Non,7,28000
+Meknès,2020,Automatique,Diesel,104999.5,Mercedes-Benz,Classe CLA,5.0,WW au Maroc,Non,8,370000
+Meknès,2019,Automatique,Diesel,164999.5,Mercedes-Benz,Classe C,5.0,Dédouanée,Oui,9,415000
+Casablanca,2023,Automatique,Essence,92499.5,Nissan,Qashqai,5.0,WW au Maroc,Oui,8,228000
+Casablanca,1992,Manuelle,Diesel,224999.5,Mercedes-Benz,190,5.0,WW au Maroc,Non,9,39000
+Casablanca,2021,Automatique,Diesel,82499.5,BMW,Série 3,5.0,WW au Maroc,Oui,8,360000
+Casablanca,2023,Manuelle,Diesel,62499.5,Renault,Express,5.0,WW au Maroc,Oui,6,145000
+فاس,2020,Manuelle,Diesel,87499.5,Opel,Corsa,5.0,WW au Maroc,Non,6,154000
+Casablanca,2021,Manuelle,Diesel,144999.5,Renault,Clio,5.0,WW au Maroc,Oui,6,150000
+Casablanca,2020,Automatique,Diesel,77499.5,Volkswagen,Touareg,5.0,WW au Maroc,Oui,12,279000
+Casablanca,2023,Manuelle,Essence,57499.5,Kia,Picanto,5.0,WW au Maroc,Oui,6,129000
+Casablanca,2025,Automatique,Essence,32499.5,Changan,CS55,5.0,WW au Maroc,Oui,9,235000
+Casablanca,2017,Automatique,Diesel,114999.5,BMW,Série 7,5.0,WW au Maroc,Oui,12,460000
+Casablanca,2021,Automatique,Diesel,144999.5,Peugeot,3008,5.0,WW au Maroc,Oui,8,285000
+Casablanca,2021,Automatique,Essence,62499.5,Fiat,500,3.0,WW au Maroc,Oui,7,148000
+Casablanca,2022,Automatique,Hybride,114999.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,9,253000
+Casablanca,2023,Automatique,Essence,42499.5,Kia,Sonet,5.0,WW au Maroc,Oui,9,196000
+Tétouan,2020,Manuelle,Diesel,47499.5,Ford,Kuga,5.0,WW au Maroc,Oui,6,220000
+Marrakech,2022,Automatique,Diesel,184999.5,Volkswagen,Golf 8,5.0,WW au Maroc,Oui,8,260000
+Casablanca,2017,Automatique,Diesel,194999.5,Audi,A4,5.0,WW au Maroc,Oui,8,225000
+Casablanca,2019,Manuelle,Diesel,114999.5,Peugeot,208,5.0,WW au Maroc,Oui,6,128000
+Agadir,2022,Manuelle,Essence,97499.5,Kia,Picanto,5.0,WW au Maroc,Non,6,112000
+Agadir,2020,Manuelle,Essence,42499.5,Toyota,Yaris,5.0,WW au Maroc,Oui,6,125000
+Casablanca,2023,Automatique,Diesel,104999.5,Kia,Seltos,5.0,WW au Maroc,Oui,6,217000
+Tétouan,2022,Automatique,Diesel,97499.5,Audi,A4,5.0,WW au Maroc,Oui,8,330000
+Casablanca,2022,Automatique,Diesel,114999.5,Peugeot,3008,5.0,WW au Maroc,Oui,8,270000
+Casablanca,2016,Automatique,Essence,154999.5,Mini,Cooper,5.0,WW au Maroc,Non,7,147000
+Marrakech,2025,Automatique,Hybride,2499.5,Porsche,Cayenne,5.0,Dédouanée,Oui,17,1800000
+Casablanca,2023,Automatique,Hybride,37499.5,Kia,Sportage,5.0,WW au Maroc,Oui,9,355000
+Casablanca,2015,Automatique,Essence,124999.5,Mercedes-Benz,Classe E,5.0,WW au Maroc,Non,10,160000
+Kénitra,2018,Manuelle,Diesel,104999.5,Dacia,Sandero,5.0,WW au Maroc,Oui,6,129000
+Casablanca,2011,Manuelle,Diesel,164999.5,Ford,Focus,5.0,WW au Maroc,Oui,6,88000
+Casablanca,2020,Manuelle,Diesel,144999.5,Citroën,C3,5.0,WW au Maroc,Oui,6,125000
+Tétouan,2012,Manuelle,Essence,144999.5,Ford,Ka,3.0,WW au Maroc,Oui,4,78000
+Fès,2018,Manuelle,Diesel,154999.5,Nissan,Qashqai,5.0,WW au Maroc,Non,6,197000
+Temara,2022,Automatique,Hybride,124999.5,Toyota,C-HR,5.0,WW au Maroc,Oui,10,225000
+Rabat,2018,Automatique,Diesel,154999.5,BMW,X1,5.0,WW au Maroc,Non,8,232000
+Casablanca,2023,Automatique,Diesel,37499.5,Audi,A6,5.0,WW au Maroc,Oui,8,375000
+Rabat,2016,Automatique,Diesel,124999.5,Jeep,Wrangler,5.0,WW au Maroc,Non,12,280000
+Casablanca,2020,Automatique,Diesel,97499.5,Ford,Focus,5.0,WW au Maroc,Oui,6,206000
+Fès,2022,Automatique,Diesel,77499.5,Peugeot,2008,5.0,WW au Maroc,Oui,6,223000
+Casablanca,2018,Automatique,Diesel,97499.5,Land Rover,Range Rover Evoque,5.0,WW au Maroc,Oui,8,282000
+Agadir,2025,Manuelle,Diesel,22499.5,Dacia,Sandero,5.0,WW au Maroc,Non,6,138500
+Casablanca,2022,Manuelle,Diesel,97499.5,Renault,Captur,5.0,WW au Maroc,Oui,6,205000
+Tétouan,2021,Manuelle,Diesel,124999.5,Mitsubishi,L200,3.0,WW au Maroc,Oui,10,195000
+Casablanca,2003,Manuelle,Essence,224999.5,BMW,Z4,3.0,Dédouanée,Non,14,120000
+Casablanca,2021,Automatique,Electrique,42499.5,Mini,Cooper,5.0,WW au Maroc,Oui,10,250000
+Casablanca,2012,Automatique,Essence,114999.5,Subaru,Legacy,5.0,WW au Maroc,Non,11,68000
+Oujda,2018,Manuelle,Diesel,224999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,245000
+Casablanca,2015,Manuelle,Diesel,224999.5,Hyundai,H100,5.0,WW au Maroc,Non,6,167000
+Kénitra,2017,Automatique,Diesel,144999.5,Mitsubishi,Outlander,5.0,WW au Maroc,Non,10,175000
+Marrakech,2018,Automatique,Essence,104999.5,Hyundai,i20,5.0,WW au Maroc,Oui,8,118000
+Tétouan,2022,Manuelle,Essence,124999.5,Nissan,Qashqai,5.0,WW au Maroc,Oui,8,178000
+Rabat,2024,Automatique,Diesel,2499.5,Volkswagen,Tiguan,5.0,WW au Maroc,Oui,8,395000
+Tétouan,2022,Manuelle,Essence,124999.5,Nissan,Qashqai,5.0,WW au Maroc,Oui,8,178000
+Casablanca,2016,Manuelle,Diesel,194999.5,Ford,Focus,5.0,WW au Maroc,Oui,6,145000
+Fès,2012,Manuelle,Diesel,164999.5,Mitsubishi,L200,5.0,WW au Maroc,Non,9,98000
+Rabat,2012,Manuelle,Diesel,224999.5,Ford,Focus,5.0,WW au Maroc,Non,6,112000
+Rabat,2016,Automatique,Diesel,124999.5,Jeep,Wrangler,5.0,WW au Maroc,Non,12,280000
+Casablanca,2020,Automatique,Diesel,144999.5,Land Rover,Range Rover Velar,5.0,WW au Maroc,Oui,8,360000
+فاس,2012,Manuelle,Diesel,164999.5,Mitsubishi,L200,5.0,WW au Maroc,Non,9,98000
+Casablanca,2020,Automatique,Diesel,97499.5,Ford,Focus,5.0,WW au Maroc,Oui,6,206000
+Fès,2022,Automatique,Diesel,77499.5,Peugeot,2008,5.0,WW au Maroc,Oui,6,223000
+Casablanca,2018,Automatique,Diesel,97499.5,Land Rover,Range Rover Evoque,5.0,WW au Maroc,Oui,8,282000
+Agadir,2025,Manuelle,Diesel,22499.5,Dacia,Sandero,5.0,WW au Maroc,Non,6,138500
+Casablanca,2022,Manuelle,Diesel,97499.5,Renault,Captur,5.0,WW au Maroc,Oui,6,205000
+Tétouan,2021,Manuelle,Diesel,124999.5,Mitsubishi,L200,3.0,WW au Maroc,Oui,10,195000
+Casablanca,2003,Manuelle,Essence,224999.5,BMW,Z4,3.0,Dédouanée,Non,14,120000
+Casablanca,2021,Automatique,Electrique,42499.5,Mini,Cooper,5.0,WW au Maroc,Oui,10,250000
+Casablanca,2015,Automatique,Diesel,114999.5,BMW,Série 4,5.0,WW au Maroc,Non,8,226000
+Casablanca,2002,Manuelle,Essence,224999.5,Volkswagen,Passat,5.0,WW au Maroc,Non,11,39000
+Casablanca,2023,Automatique,Diesel,42499.5,Audi,Q5,5.0,WW au Maroc,Oui,8,640000
+Skhirat,2006,Automatique,Diesel,324999.5,Mercedes-Benz,220,5.0,Dédouanée,Non,8,103000
+Mohammedia,2024,Automatique,Diesel,22499.5,Land Rover,Range Rover Evoque,5.0,WW au Maroc,Oui,8,520000
+Temara,2017,Manuelle,Diesel,104999.5,Nissan,Qashqai,5.0,WW au Maroc,Non,6,183000
+Casablanca,2020,Automatique,Diesel,174999.5,Hyundai,i30,5.0,WW au Maroc,Non,6,175000
+Casablanca,2016,Automatique,Diesel,124999.5,BMW,Série 4,5.0,WW au Maroc,Non,8,230000
+Casablanca,2025,Manuelle,Diesel,7499.5,Dacia,Sandero,5.0,WW au Maroc,Oui,6,170000
+Marrakech,2023,Automatique,Diesel,52499.5,Land Rover,Range Rover Evoque,5.0,Dédouanée,Non,10,520000
+Casablanca,2013,Manuelle,Diesel,324999.5,Hyundai,Santa Fe,5.0,WW au Maroc,Non,9,120000
+Casablanca,2022,Manuelle,Diesel,92499.5,Opel,Combo,5.0,WW au Maroc,Oui,6,185000
+Temara,2021,Automatique,Diesel,104999.5,Volkswagen,Passat,5.0,WW au Maroc,Non,8,217000
+Marrakech,2016,Manuelle,Diesel,164999.5,Toyota,Yaris,5.0,WW au Maroc,Non,6,108000
+Marrakech,2016,Automatique,Diesel,154999.5,Mercedes-Benz,Classe GLC,5.0,WW au Maroc,Oui,9,330000
+Tétouan,2020,Automatique,Diesel,87499.5,Opel,Insignia,5.0,WW au Maroc,Oui,8,193000
+Fès,2022,Manuelle,Diesel,62499.5,Peugeot,301,5.0,WW au Maroc,Oui,6,135000
+Meknès,2023,Manuelle,Diesel,104999.5,Renault,Express,5.0,WW au Maroc,Non,6,165000
+Casablanca,2019,Automatique,Essence,92499.5,Porsche,Macan,5.0,Importée neuve,Non,11,510000
+Tétouan,2025,Automatique,Diesel,12499.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,360000
+Agadir,2020,Automatique,Diesel,134999.5,Seat,Ateca,5.0,Dédouanée,Non,6,298000
+Fès,2016,Automatique,Diesel,194999.5,Land Rover,Discovery,3.0,WW au Maroc,Oui,9,190000
+Fès,2020,Manuelle,Diesel,104999.5,Dacia,Dokker,5.0,WW au Maroc,Oui,6,128000
+Salé,2017,Manuelle,Diesel,224999.5,Peugeot,3008,5.0,WW au Maroc,Non,8,175000
+Casablanca,2022,Automatique,Diesel,104999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,480000
+Ouazzane,2014,Manuelle,Diesel,224999.5,Peugeot,Partner,5.0,WW au Maroc,Non,6,99000
+Casablanca,2021,Manuelle,Diesel,144999.5,Dacia,Dokker,5.0,WW au Maroc,Oui,6,103000
+Casablanca,2021,Automatique,Diesel,174999.5,Peugeot,3008,5.0,WW au Maroc,Non,8,250000
+Casablanca,2019,Automatique,Diesel,174999.5,Volvo,S90,5.0,WW au Maroc,Non,8,275000
+Agadir,2019,Manuelle,Diesel,124999.5,Dacia,Lodgy,5.0,WW au Maroc,Non,6,138000
+Casablanca,2020,Manuelle,Diesel,97499.5,Peugeot,208,5.0,WW au Maroc,Oui,6,128000
+Casablanca,2021,Automatique,Diesel,134999.5,Jeep,Cherokee,5.0,WW au Maroc,Non,9,247000
+Rabat,2022,Automatique,Hybride,104999.5,Mercedes-Benz,Classe GLC,5.0,Dédouanée,Oui,8,690000
+Agadir,2022,Automatique,Diesel,114999.5,Skoda,Octavia,5.0,WW au Maroc,Oui,8,265000
+Casablanca,2017,Automatique,Diesel,194999.5,BMW,Série 5,5.0,WW au Maroc,Oui,8,300000
+Casablanca,2020,Automatique,Diesel,114999.5,Opel,Astra,5.0,WW au Maroc,Non,6,178000
+Casablanca,2024,Automatique,Essence,22499.5,Changan,CS35,5.0,WW au Maroc,Oui,8,198000
+Khouribga,2019,Automatique,Diesel,154999.5,Citroën,C5,5.0,Dédouanée,Oui,6,285000
+Casablanca,2023,Manuelle,Diesel,62499.5,Renault,Express,5.0,WW au Maroc,Oui,6,145000
+Casablanca,2018,Automatique,Diesel,144999.5,Audi,Q5,5.0,Dédouanée,Non,8,419000
+Casablanca,2014,Automatique,Diesel,184999.5,Peugeot,508,5.0,WW au Maroc,Non,8,133000
+Tanger,2023,Manuelle,Diesel,82499.5,Renault,Clio,5.0,WW au Maroc,Oui,6,150000
+Marrakech,2019,Manuelle,Diesel,134999.5,Peugeot,208,5.0,WW au Maroc,Oui,6,107000
+Meknès,2020,Manuelle,Diesel,82499.5,Renault,Clio,5.0,WW au Maroc,Oui,7,160000
+Bouskoura,2014,Automatique,Diesel,22499.5,Land Rover,Range Rover Evoque,5.0,WW au Maroc,Oui,8,164000
+Meknès,2022,Manuelle,Diesel,82499.5,Fiat,Fiorino,5.0,WW au Maroc,Non,5,125000
+Kénitra,2017,Automatique,Diesel,194999.5,Hyundai,Tucson,5.0,Dédouanée,Oui,6,250000
+Khouribga,2009,Manuelle,Diesel,27499.5,Volkswagen,Golf 5,5.0,Dédouanée,Non,8,93000
+Casablanca,2024,Automatique,Diesel,22499.5,Kia,Sportage,5.0,WW au Maroc,Oui,6,335000
+Berkane,2008,Manuelle,Diesel,154999.5,Renault,Scenic,5.0,WW au Maroc,Non,7,84000
+Sidi Kacem,2019,Automatique,Diesel,104999.5,Land Rover,Range Rover Evoque,5.0,Dédouanée,Non,8,300000
+Casablanca,2008,Manuelle,Diesel,374999.5,Ssangyong,Kyron,5.0,WW au Maroc,Non,8,50000
+Tanger,2024,Automatique,Diesel,2499.5,Citroën,C4,5.0,WW au Maroc,Oui,6,340000
+Agadir,2019,Manuelle,Diesel,124999.5,Dacia,Lodgy,5.0,WW au Maroc,Non,6,138000
+Marrakech,2016,Automatique,Diesel,224999.5,Land Rover,Range Rover Vogue,5.0,WW au Maroc,Non,12,259000
+Rabat,2015,Automatique,Diesel,224999.5,Audi,Q5,5.0,Importée neuve,Non,12,260000
+Casablanca,2020,Manuelle,Diesel,52499.5,Jeep,Compass,5.0,WW au Maroc,Oui,6,193000
+Casablanca,2014,Manuelle,Diesel,224999.5,Ssangyong,Korando,5.0,WW au Maroc,Non,8,75000
+Casablanca,2016,Manuelle,Diesel,174999.5,Ford,Focus,5.0,WW au Maroc,Non,6,143000
+Casablanca,2022,Manuelle,Diesel,104999.5,Renault,Trafic,5.0,WW au Maroc,Non,6,305000
+Agadir,2022,Manuelle,Diesel,97499.5,Renault,Express,5.0,WW au Maroc,Oui,6,148000
+Casablanca,2021,Automatique,Diesel,82499.5,Renault,Kadjar,5.0,WW au Maroc,Oui,6,229000
+Temara,2015,Automatique,Diesel,224999.5,BMW,Série 1,5.0,WW au Maroc,Non,8,159000
+Casablanca,2018,Manuelle,Diesel,274999.5,Ford,Focus,5.0,WW au Maroc,Non,6,155000
+Kalaat M'gouna,2010,Manuelle,Essence,12499.5,Citroën,c4x,5.0,Importée neuve,Non,7,74000
+Casablanca,2021,Automatique,Diesel,114999.5,Renault,Megane,5.0,WW au Maroc,Non,6,195000
+Casablanca,2021,Manuelle,Diesel,124999.5,Nissan,Micra,5.0,WW au Maroc,Oui,7,130000
+Casablanca,2012,Automatique,Diesel,174999.5,Volkswagen,Passat,5.0,WW au Maroc,Non,8,155000
+Casablanca,2013,Manuelle,Diesel,224999.5,Volkswagen,Passat,5.0,Dédouanée,Oui,6,138000
+Fès,2023,Automatique,Diesel,52499.5,Kia,Seltos,3.0,WW au Maroc,Oui,8,259000
+Casablanca,2022,Automatique,Diesel,114999.5,Jeep,Renegade,5.0,WW au Maroc,Oui,6,219000
+Meknès,2010,Manuelle,Essence,124999.5,Kia,Picanto,5.0,WW au Maroc,Non,4,63000
+Casablanca,2022,Automatique,Diesel,47499.5,Mercedes-Benz,220,5.0,Importée neuve,Non,8,410000
+Fès,2023,Automatique,Essence,77499.5,Kia,Sonet,5.0,WW au Maroc,Oui,6,194000
+Marrakech,2022,Automatique,Diesel,92499.5,Hyundai,Accent,5.0,WW au Maroc,Oui,6,145000
+Casablanca,2021,Automatique,Diesel,124999.5,Hyundai,Santa Fe,5.0,WW au Maroc,Oui,9,275000
+Agadir,2022,Automatique,Diesel,134999.5,Dacia,Duster,5.0,WW au Maroc,Oui,6,193000
+Béni Mellal,2015,Manuelle,Diesel,274999.5,Hyundai,ix35,5.0,WW au Maroc,Non,7,150000
+Casablanca,2017,Manuelle,Diesel,164999.5,Renault,Espace,5.0,Dédouanée,Non,6,260000
+Casablanca,2022,Automatique,Essence,72499.5,Renault,Megane,5.0,WW au Maroc,Oui,10,259000
+Mohammedia,2017,Automatique,Diesel,144999.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Non,12,370000
+Casablanca,2019,Automatique,Diesel,134999.5,BMW,X5,5.0,WW au Maroc,Non,12,440000
+Rabat,2013,Manuelle,Diesel,144999.5,Volkswagen,Polo,5.0,WW au Maroc,Non,6,93000
+Fès,2021,Automatique,Diesel,92499.5,Peugeot,3008,5.0,WW au Maroc,Oui,8,319000
+Casablanca,2007,Manuelle,Diesel,32499.5,Volkswagen,Golf 5,5.0,Dédouanée,Non,8,38000
+Casablanca,2019,Automatique,Diesel,114999.5,BMW,Série 3,5.0,WW au Maroc,Oui,8,290000
+Tanger,2019,Automatique,Diesel,144999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,329000
+Tanger,2021,Automatique,Diesel,52499.5,Peugeot,208,5.0,WW au Maroc,Oui,6,189000
+Rabat,2018,Automatique,Diesel,164999.5,Mercedes-Benz,Classe E,5.0,Importée neuve,Non,8,390000
+Meknès,2012,Automatique,Diesel,2499.5,BMW,Série 3,5.0,WW au Maroc,Non,8,168000
+Casablanca,2021,Manuelle,Diesel,144999.5,Renault,Clio,5.0,WW au Maroc,Oui,6,150000
+Fès,2020,Automatique,Diesel,82499.5,Volkswagen,Jetta,5.0,WW au Maroc,Oui,8,219000
+Casablanca,2021,Automatique,Diesel,77499.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Oui,12,685000
+Casablanca,2020,Manuelle,Diesel,17499.5,Renault,Megane,5.0,WW au Maroc,Non,6,184000
+Meknès,2018,Automatique,Diesel,164999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,320000
+Casablanca,2018,Automatique,Diesel,114999.5,Dacia,Duster,5.0,WW au Maroc,Oui,6,185000
+Casablanca,2019,Automatique,Diesel,62499.5,Volvo,V40,5.0,WW au Maroc,Oui,8,180000
+Casablanca,2021,Manuelle,Diesel,164999.5,Renault,Clio,5.0,WW au Maroc,Non,6,123000
+Temara,2023,Manuelle,Diesel,82499.5,Dacia,Sandero,3.0,WW au Maroc,Non,6,139000
+Casablanca,2022,Automatique,Diesel,32499.5,Peugeot,3008,5.0,WW au Maroc,Oui,8,339000
+Dar Bouazza,2018,Automatique,Diesel,124999.5,Volkswagen,Passat,5.0,WW au Maroc,Oui,8,220000
+Tétouan,2018,Automatique,Diesel,144999.5,Hyundai,i30,5.0,WW au Maroc,Non,6,168000
+Casablanca,2023,Automatique,Diesel,82499.5,Peugeot,208,5.0,WW au Maroc,Oui,6,194000
+Tanger,2014,Automatique,Diesel,194999.5,BMW,X1,5.0,WW au Maroc,Non,8,156000
+Khouribga,2023,Manuelle,Diesel,104999.5,Dacia,Sandero,5.0,WW au Maroc,Oui,6,143000
+Casablanca,2021,Manuelle,Diesel,124999.5,Renault,Clio,5.0,WW au Maroc,Oui,6,129000
+Tanger,2012,Manuelle,Diesel,274999.5,Citroën,C4,5.0,WW au Maroc,Non,6,98000
+Casablanca,2016,Automatique,Diesel,174999.5,Volkswagen,Touareg,5.0,WW au Maroc,Oui,12,158000
+Khouribga,2019,Automatique,Diesel,194999.5,Mercedes-Benz,Classe A,5.0,Dédouanée,Non,8,329000
+Khouribga,2020,Manuelle,Diesel,134999.5,Seat,Arona,5.0,Dédouanée,Oui,6,235000
+Khouribga,2019,Automatique,Diesel,184999.5,Mercedes-Benz,Classe CLC,5.0,Dédouanée,Oui,8,339000
+Meknès,2020,Automatique,Diesel,57499.5,Volkswagen,Jetta,5.0,WW au Maroc,Oui,8,187000
+Marrakech,2011,Manuelle,Diesel,324999.5,Volkswagen,Tiguan,5.0,WW au Maroc,Non,8,145000
+Tanger,2024,Automatique,Essence,22499.5,Volkswagen,Golf 8,5.0,Importée neuve,Non,11,510000
+Casablanca,2025,Manuelle,Diesel,52499.5,Fiat,Fiorino,5.0,WW au Maroc,Oui,5,98000
+Khouribga,2021,Manuelle,Diesel,144999.5,Dacia,Sandero,5.0,WW au Maroc,Oui,6,133000
+Rabat,2021,Automatique,Hybride,97499.5,Cupra,Formentor,5.0,Importée neuve,Oui,8,335000
+Casablanca,2019,Automatique,Diesel,114999.5,BMW,X3,5.0,WW au Maroc,Oui,8,290000
+Casablanca,2016,Automatique,Diesel,144999.5,Mercedes-Benz,Classe CLA,5.0,WW au Maroc,Non,9,260000
+Fès,2022,Manuelle,Diesel,104999.5,Opel,Corsa,5.0,WW au Maroc,Oui,6,147000
+Tanger,2023,Automatique,Essence,27499.5,Hyundai,i10,5.0,WW au Maroc,Oui,7,138000
+Marrakech,2014,Automatique,Diesel,124999.5,Jeep,Grand Cherokee,5.0,Dédouanée,Non,12,165000
+Tétouan,2021,Manuelle,Diesel,57499.5,Fiat,Fiorino,5.0,WW au Maroc,Non,6,125000
+Nador,2023,Manuelle,Essence,57499.5,Fiat,500,5.0,WW au Maroc,Oui,6,123000
+Casablanca,2022,Automatique,Diesel,134999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,455000
+Casablanca,2023,Manuelle,Diesel,62499.5,Renault,Express,5.0,WW au Maroc,Oui,6,145000
+Tétouan,2023,Manuelle,Diesel,114999.5,Dacia,Sandero,5.0,WW au Maroc,Oui,6,148000
+Agadir,2018,Automatique,Diesel,154999.5,Renault,Clio,5.0,WW au Maroc,Non,6,133000
+Tanger,2019,Manuelle,Diesel,87499.5,Ford,C Max,5.0,WW au Maroc,Non,7,168000
+Rabat,2019,Automatique,Diesel,72499.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Non,12,520000
+Rabat,2024,Automatique,Diesel,37499.5,Peugeot,3008,5.0,WW au Maroc,Oui,6,340000
+Casablanca,2018,Manuelle,Essence,114999.5,Ford,Fiesta,5.0,WW au Maroc,Non,6,122000
+Casablanca,2013,Manuelle,Diesel,164999.5,Nissan,Juke,5.0,WW au Maroc,Non,6,109000
+Rabat,2020,Automatique,Diesel,174999.5,BMW,X1,5.0,WW au Maroc,Oui,8,255000
+Casablanca,2020,Automatique,Diesel,124999.5,Volkswagen,Tiguan,5.0,Dédouanée,Non,8,300000
+Casablanca,2021,Automatique,Hybride,92499.5,Hyundai,Sonata,5.0,WW au Maroc,Oui,11,280000
+Casablanca,2022,Automatique,Diesel,77499.5,DS,DS 5,5.0,WW au Maroc,Oui,6,285000
+Fès,2014,Manuelle,Diesel,174999.5,Renault,Clio,5.0,WW au Maroc,Non,7,99000
+Marrakech,2014,Automatique,Diesel,194999.5,Land Rover,Range Rover Evoque,5.0,WW au Maroc,Non,9,170000
+Tétouan,2013,Automatique,Diesel,224999.5,Audi,Q5,5.0,Dédouanée,Non,8,205000
+Tétouan,2012,Manuelle,Diesel,274999.5,Citroën,C4,5.0,WW au Maroc,Non,6,98000
+Ouarzazate,2016,Manuelle,Diesel,184999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,250000
+Casablanca,2021,Automatique,Diesel,134999.5,Mercedes-Benz,Classe A,5.0,WW au Maroc,Oui,8,298000
+Guercif,2012,Manuelle,Diesel,224999.5,Volkswagen,Tiguan,5.0,Dédouanée,Non,8,170000
+Casablanca,2009,Manuelle,Essence,274999.5,Fiat,Linea,5.0,WW au Maroc,Non,8,44999
+Nador,2004,Manuelle,Diesel,224999.5,Mercedes-Benz,200,5.0,Dédouanée,Non,9,98000
+Fès,2019,Manuelle,Diesel,154999.5,Dacia,Dokker,3.0,WW au Maroc,Oui,6,139000
+Tétouan,2018,Manuelle,Diesel,144999.5,Peugeot,208,5.0,WW au Maroc,Oui,6,125000
+Safi,2022,Automatique,Diesel,87499.5,Audi,Q5,5.0,WW au Maroc,Oui,8,660000
+Fès,2022,Automatique,Diesel,87499.5,Citroën,C5,5.0,WW au Maroc,Oui,8,248000
+Rabat,2023,Automatique,Diesel,82499.5,Kia,Carens,5.0,WW au Maroc,Non,6,209000
+Marrakech,2013,Automatique,Diesel,174999.5,Hyundai,Santa Fe,5.0,Dédouanée,Oui,8,110000
+Casablanca,2021,Automatique,Diesel,87499.5,Volkswagen,T-Roc,5.0,WW au Maroc,Oui,8,268000
+Marrakech,2018,Automatique,Diesel,124999.5,Jeep,Wrangler,5.0,Dédouanée,Oui,11,319999
+Fès,2009,Automatique,Essence,134999.5,Honda,Jazz,5.0,WW au Maroc,Non,9,94000
+Casablanca,2021,Automatique,Hybride,174999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,440000
+Rabat,2021,Automatique,Diesel,72499.5,Volkswagen,Golf 8,5.0,Importée neuve,Oui,8,395000
+Casablanca,2021,Automatique,Diesel,87499.5,Volkswagen,T-Roc,5.0,WW au Maroc,Oui,8,268000
+Fès,2009,Automatique,Essence,134999.5,Honda,Jazz,5.0,WW au Maroc,Non,9,94000
+Casablanca,2021,Automatique,Hybride,174999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,440000
+Casablanca,2020,Automatique,Diesel,104999.5,Audi,Q7,5.0,WW au Maroc,Oui,12,360000
+Rabat,2012,Manuelle,Diesel,224999.5,Ford,Focus,5.0,WW au Maroc,Non,6,112000
+Casablanca,2011,Automatique,Diesel,224999.5,Volkswagen,Touareg,5.0,WW au Maroc,Non,12,115000
+Rabat,2014,Automatique,Diesel,184999.5,Audi,A7,5.0,Dédouanée,Non,12,230000
+Fès,2022,Manuelle,Diesel,57499.5,Seat,Arona,5.0,WW au Maroc,Non,6,182000
+Casablanca,2019,Automatique,Diesel,97499.5,Audi,Q5,5.0,WW au Maroc,Oui,8,365000
+Tanger,2018,Automatique,Diesel,114999.5,Volkswagen,Tiguan,5.0,WW au Maroc,Non,8,279000
+Bouskoura,2015,Automatique,Diesel,174999.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Non,12,265000
+Fès,2024,Automatique,Diesel,17499.5,Seat,Ateca,5.0,WW au Maroc,Oui,8,285000
+Casablanca,2023,Automatique,Diesel,32499.5,Hyundai,IONIQ 5,5.0,WW au Maroc,Oui,9,440000
+Casablanca,2019,Automatique,Diesel,144999.5,Volvo,XC60,5.0,WW au Maroc,Oui,8,290000
+Casablanca,2009,Automatique,Diesel,224999.5,Mercedes-Benz,Classe E,5.0,WW au Maroc,Non,8,130000
+Casablanca,2016,Automatique,Diesel,134999.5,Opel,Astra,5.0,WW au Maroc,Oui,8,142000
+Casablanca,2020,Automatique,Diesel,92499.5,Hyundai,Accent,5.0,WW au Maroc,Non,6,137000
+Casablanca,2014,Automatique,Diesel,144999.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Oui,12,300000
+Marrakech,2017,Automatique,Diesel,134999.5,Land Rover,Range Rover Evoque,5.0,WW au Maroc,Non,8,228000
+Casablanca,2021,Manuelle,Diesel,104999.5,Renault,Megane,5.0,WW au Maroc,Oui,6,213000
+Fès,2019,Automatique,Diesel,104999.5,Jeep,Renegade,5.0,WW au Maroc,Oui,6,195000
+Casablanca,2009,Automatique,Diesel,224999.5,Mercedes-Benz,Classe E,5.0,WW au Maroc,Non,8,130000
+Casablanca,2015,Manuelle,Diesel,174999.5,Ford,Kuga,5.0,WW au Maroc,Oui,8,145000
+Casablanca,2023,Automatique,Diesel,67499.5,BMW,Série 5,3.0,WW au Maroc,Oui,8,510000
+Oujda,2018,Automatique,Diesel,174999.5,Audi,A6,5.0,Dédouanée,Non,8,320000
+Casablanca,2012,Manuelle,Diesel,82499.5,Mercedes-Benz,180,5.0,WW au Maroc,Oui,8,105000
+Casablanca,2020,Automatique,Diesel,92499.5,Hyundai,Accent,5.0,WW au Maroc,Non,6,137000
+Casablanca,2019,Automatique,Diesel,134999.5,BMW,X5,5.0,WW au Maroc,Non,12,440000
+فاس,2024,Automatique,Diesel,17499.5,Seat,Ateca,5.0,WW au Maroc,Oui,8,285000
+Casablanca,2016,Automatique,Diesel,164999.5,Jeep,Cherokee,5.0,WW au Maroc,Oui,8,157000
+Casablanca,2024,Automatique,Diesel,42499.5,Kia,Sportage,5.0,WW au Maroc,Oui,6,269000
+Tétouan,2012,Manuelle,Diesel,174999.5,Kia,Carens,5.0,WW au Maroc,Oui,8,87000
+Casablanca,2019,Automatique,Diesel,184999.5,Land Rover,Range Rover Sport,5.0,Importée neuve,Oui,12,630000
+Marrakech,2025,Automatique,Diesel,42499.5,Chevrolet,Suburban,5.0,Dédouanée,Oui,15,1350000
+Guigou,2003,Manuelle,Diesel,164999.5,Volkswagen,Golf 4,5.0,Dédouanée,Non,8,80000
+Casablanca,2018,Manuelle,Diesel,124999.5,Renault,Kangoo,5.0,WW au Maroc,Oui,6,128000
+Rabat,2014,Manuelle,Diesel,224999.5,Peugeot,3008,5.0,WW au Maroc,Non,8,115000
+Rabat,2022,Manuelle,Diesel,62499.5,Citroën,C5,5.0,WW au Maroc,Oui,6,245000
+Mohammedia,2015,Automatique,Electrique,2499.5,Renault,Twizy,3.0,WW au Maroc,Non,4,55000
+Berrechid,2020,Automatique,Diesel,104999.5,Skoda,Kodiaq,5.0,Dédouanée,Oui,8,345000
+Marrakech,2012,Manuelle,Diesel,114999.5,Volkswagen,Golf 6,5.0,WW au Maroc,Non,6,115000
+Agadir,2021,Automatique,Hybride,42499.5,Toyota,C-HR,5.0,WW au Maroc,Oui,6,230000
+Casablanca,2014,Automatique,Essence,92499.5,Suzuki,Swift,5.0,Importée neuve,Non,7,85000
+Casablanca,2011,Automatique,Diesel,224999.5,Volkswagen,Touareg,5.0,WW au Maroc,Non,12,115000
+Casablanca,2019,Manuelle,Diesel,164999.5,Dacia,Dokker,3.0,WW au Maroc,Non,6,133000
+Nador,2023,Manuelle,Essence,57499.5,Fiat,500,5.0,WW au Maroc,Oui,6,123000
+Casablanca,2022,Automatique,Diesel,134999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,480000
+Tétouan,2023,Manuelle,Diesel,114999.5,Dacia,Sandero,5.0,WW au Maroc,Oui,6,148000
+Agadir,2018,Automatique,Diesel,154999.5,Renault,Clio,5.0,WW au Maroc,Non,6,133000
+Tanger,2019,Manuelle,Diesel,87499.5,Ford,C Max,5.0,WW au Maroc,Non,7,168000
+Rabat,2019,Automatique,Diesel,72499.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Non,12,520000
+Rabat,2024,Automatique,Diesel,37499.5,Peugeot,3008,5.0,WW au Maroc,Oui,6,340000
+Casablanca,2018,Manuelle,Essence,114999.5,Ford,Fiesta,5.0,WW au Maroc,Non,6,122000
+Casablanca,2013,Manuelle,Diesel,164999.5,Nissan,Juke,5.0,WW au Maroc,Non,6,109000
+Casablanca,2022,Automatique,Diesel,77499.5,DS,DS 5,5.0,WW au Maroc,Oui,6,285000
+Fès,2014,Manuelle,Diesel,174999.5,Renault,Clio,5.0,WW au Maroc,Non,7,99000
+Marrakech,2014,Automatique,Diesel,194999.5,Land Rover,Range Rover Evoque,5.0,WW au Maroc,Non,9,170000
+Tétouan,2013,Automatique,Diesel,224999.5,Audi,Q5,5.0,Dédouanée,Non,8,205000
+Ouarzazate,2016,Manuelle,Diesel,184999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,250000
+Casablanca,2021,Automatique,Diesel,134999.5,Mercedes-Benz,Classe A,5.0,WW au Maroc,Oui,8,298000
+Guercif,2012,Manuelle,Diesel,224999.5,Volkswagen,Tiguan,5.0,Dédouanée,Non,8,170000
+Casablanca,2009,Manuelle,Essence,274999.5,Fiat,Linea,5.0,WW au Maroc,Non,8,44999
+Casablanca,2023,Automatique,Essence,92499.5,Nissan,Qashqai,5.0,WW au Maroc,Oui,8,228000
+Nador,2004,Manuelle,Diesel,224999.5,Mercedes-Benz,200,5.0,Dédouanée,Non,9,98000
+Fès,2019,Manuelle,Diesel,154999.5,Dacia,Dokker,3.0,WW au Maroc,Oui,6,139000
+Safi,2022,Automatique,Diesel,87499.5,Audi,Q5,5.0,WW au Maroc,Oui,8,660000
+Fès,2022,Automatique,Diesel,87499.5,Citroën,C5,5.0,WW au Maroc,Oui,8,248000
+Rabat,2023,Automatique,Diesel,82499.5,Kia,Carens,5.0,WW au Maroc,Non,6,209000
+Marrakech,2013,Automatique,Diesel,174999.5,Hyundai,Santa Fe,5.0,Dédouanée,Oui,8,110000
+Casablanca,2019,Automatique,Diesel,144999.5,Volvo,XC60,5.0,WW au Maroc,Oui,8,290000
+Casablanca,2016,Automatique,Diesel,134999.5,Opel,Astra,5.0,WW au Maroc,Oui,8,142000
+Casablanca,2017,Automatique,Diesel,114999.5,Peugeot,508,5.0,WW au Maroc,Non,8,149000
+Casablanca,2020,Automatique,Diesel,92499.5,Hyundai,Accent,5.0,WW au Maroc,Non,6,137000
+Casablanca,2014,Automatique,Diesel,144999.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Oui,12,300000
+Marrakech,2017,Automatique,Diesel,134999.5,Land Rover,Range Rover Evoque,5.0,WW au Maroc,Non,8,228000
+Fès,2019,Automatique,Diesel,104999.5,Jeep,Renegade,5.0,WW au Maroc,Oui,6,195000
+Casablanca,2021,Automatique,Diesel,52499.5,Kia,Sorento,5.0,WW au Maroc,Oui,8,325000
+Casablanca,2015,Manuelle,Diesel,174999.5,Ford,Kuga,5.0,WW au Maroc,Oui,8,145000
+Casablanca,2023,Automatique,Diesel,67499.5,BMW,Série 5,3.0,WW au Maroc,Oui,8,510000
+Casablanca,2016,Automatique,Diesel,164999.5,Jeep,Cherokee,5.0,WW au Maroc,Oui,8,157000
+Casablanca,2024,Automatique,Diesel,42499.5,Kia,Sportage,5.0,WW au Maroc,Oui,6,269000
+Tétouan,2012,Manuelle,Diesel,174999.5,Kia,Carens,5.0,WW au Maroc,Oui,8,87000
+Meknès,2021,Manuelle,Diesel,92499.5,Nissan,Qashqai,5.0,WW au Maroc,Oui,6,215000
+Casablanca,2022,Manuelle,Diesel,72499.5,Renault,Express,5.0,WW au Maroc,Oui,6,154000
+Mohammedia,2019,Automatique,Essence,87499.5,Fiat,500,3.0,WW au Maroc,Non,6,108000
+Casablanca,2021,Automatique,Diesel,154999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,475000
+Casablanca,2023,Automatique,Diesel,22499.5,Land Rover,Defender,3.0,WW au Maroc,Oui,12,820000
+Fès,2019,Manuelle,Diesel,144999.5,Dacia,Logan,5.0,WW au Maroc,Non,6,117000
+Tanger,2014,Automatique,Diesel,194999.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Non,12,298000
+Casablanca,2014,Automatique,Diesel,194999.5,BMW,Série 5,5.0,WW au Maroc,Non,8,170000
+Casablanca,2018,Automatique,Diesel,104999.5,Dacia,Duster,5.0,WW au Maroc,Non,6,160000
+Casablanca,2020,Automatique,Diesel,97499.5,Jaguar,E-Pace,5.0,WW au Maroc,Oui,8,285000
+Casablanca,2011,Automatique,Essence,104999.5,Fiat,Punto,5.0,WW au Maroc,Non,6,83000
+Casablanca,2020,Automatique,Diesel,124999.5,Mercedes-Benz,200,5.0,WW au Maroc,Non,8,315000
+Casablanca,2023,Automatique,Essence,67499.5,Fiat,500,3.0,WW au Maroc,Oui,7,148000
+Casablanca,2014,Automatique,Diesel,144999.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Oui,12,300000
+Tanger,2011,Automatique,Diesel,194999.5,Volkswagen,Tiguan,5.0,WW au Maroc,Non,8,157000
+Tanger,2021,Manuelle,Diesel,52499.5,Renault,Clio,5.0,WW au Maroc,Oui,6,142000
+Temara,2021,Automatique,Diesel,124999.5,BMW,Série 5,5.0,WW au Maroc,Oui,8,409000
+Rabat,2023,Automatique,Diesel,62499.5,Citroën,C3,5.0,WW au Maroc,Oui,6,208000
+Casablanca,2021,Manuelle,Diesel,134999.5,Renault,Megane,5.0,WW au Maroc,Oui,6,180000
+Meknès,2014,Automatique,Diesel,224999.5,Volkswagen,Caddy,5.0,Dédouanée,Non,6,119000
+Marrakech,2017,Automatique,Diesel,124999.5,Jaguar,F-Pace,5.0,WW au Maroc,Oui,12,340000
+Laattaouia,2017,Automatique,Diesel,17499.5,Hyundai,Accent,5.0,WW au Maroc,Non,6,122000
+Tanger,2016,Automatique,Diesel,194999.5,Jeep,Cherokee,5.0,WW au Maroc,Non,8,179000
+Agadir,2024,Manuelle,Diesel,52499.5,Dacia,Sandero,5.0,WW au Maroc,Oui,6,130000
+Fès,2020,Manuelle,Diesel,124999.5,Renault,Clio,5.0,WW au Maroc,Non,6,114000
+Larache,2017,Automatique,Diesel,134999.5,Volkswagen,Caddy,5.0,Importée neuve,Oui,8,205000
+Tamesna,2003,Manuelle,Diesel,32499.5,Renault,Scenic,5.0,WW au Maroc,Non,7,65000
+Al Hoceima,2012,Manuelle,Diesel,224999.5,Volkswagen,Tiguan,5.0,Dédouanée,Non,8,198000
+Casablanca,2021,Manuelle,Diesel,124999.5,Renault,Clio,5.0,WW au Maroc,Non,6,169000
+Casablanca,2025,Automatique,Essence,7499.5,BYD,Seal U,5.0,WW au Maroc,Oui,5,385000
+Béni Mellal,2007,Manuelle,Diesel,274999.5,Volkswagen,Golf 5,5.0,Dédouanée,Oui,8,92000
+Marrakech,2013,Automatique,Diesel,194999.5,Audi,Q3,5.0,Dédouanée,Non,8,210000
+Casablanca,2023,Automatique,Diesel,104999.5,Dacia,Duster,5.0,WW au Maroc,Oui,6,208000
+Fès,2014,Manuelle,Diesel,114999.5,Ford,Fiesta,5.0,WW au Maroc,Non,6,90000
+Rabat,2021,Automatique,Diesel,72499.5,Volkswagen,Golf 8,5.0,Importée neuve,Oui,8,395000
+Tanger,2021,Automatique,Diesel,114999.5,Volkswagen,Tiguan,5.0,Dédouanée,Non,8,360000
+Fès,2021,Manuelle,Diesel,7499.5,Renault,Clio,5.0,WW au Maroc,Oui,6,135000
+Casablanca,2022,Automatique,Diesel,57499.5,BMW,Série 4,3.0,Importée neuve,Oui,8,580000
+Casablanca,2014,Automatique,Diesel,97499.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Oui,12,380000
+Rabat,2016,Automatique,Diesel,124999.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Oui,12,320000
+Casablanca,2024,Automatique,Hybride,22499.5,Kia,Niro,5.0,WW au Maroc,Oui,9,249000
+Casablanca,2023,Automatique,Diesel,47499.5,Mercedes-Benz,Classe A,5.0,WW au Maroc,Oui,8,330000
+Rabat,2024,Manuelle,Diesel,22499.5,Opel,Corsa,5.0,WW au Maroc,Oui,6,178000
+Tanger,2018,Automatique,Diesel,114999.5,Volkswagen,Tiguan,5.0,WW au Maroc,Non,8,279000
+Bouskoura,2015,Automatique,Diesel,174999.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Non,12,265000
+Fès,2024,Automatique,Diesel,17499.5,Seat,Ateca,5.0,WW au Maroc,Oui,8,285000
+Casablanca,2009,Automatique,Diesel,224999.5,Mercedes-Benz,Classe E,5.0,WW au Maroc,Non,8,130000
+Rabat,2012,Manuelle,Diesel,224999.5,Ford,Focus,5.0,WW au Maroc,Non,6,112000
+Fès,2014,Manuelle,Diesel,174999.5,Renault,Clio,5.0,WW au Maroc,Non,7,99000
+Marrakech,2014,Automatique,Diesel,194999.5,Land Rover,Range Rover Evoque,5.0,WW au Maroc,Non,9,170000
+Tétouan,2013,Automatique,Diesel,224999.5,Audi,Q5,5.0,Dédouanée,Non,8,205000
+Ouarzazate,2016,Manuelle,Diesel,184999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,250000
+Casablanca,2021,Automatique,Diesel,134999.5,Mercedes-Benz,Classe A,5.0,WW au Maroc,Oui,8,298000
+Guercif,2012,Manuelle,Diesel,224999.5,Volkswagen,Tiguan,5.0,Dédouanée,Non,8,170000
+Casablanca,2009,Manuelle,Essence,274999.5,Fiat,Linea,5.0,WW au Maroc,Non,8,44999
+Nador,2004,Manuelle,Diesel,224999.5,Mercedes-Benz,200,5.0,Dédouanée,Non,9,98000
+Fès,2019,Manuelle,Diesel,154999.5,Dacia,Dokker,3.0,WW au Maroc,Oui,6,139000
+Safi,2022,Automatique,Diesel,87499.5,Audi,Q5,5.0,WW au Maroc,Oui,8,660000
+Fès,2022,Automatique,Diesel,87499.5,Citroën,C5,5.0,WW au Maroc,Oui,8,248000
+Rabat,2023,Automatique,Diesel,82499.5,Kia,Carens,5.0,WW au Maroc,Non,6,209000
+Marrakech,2018,Automatique,Diesel,124999.5,Jeep,Wrangler,5.0,Dédouanée,Oui,11,319999
+Fès,2009,Automatique,Essence,134999.5,Honda,Jazz,5.0,WW au Maroc,Non,9,94000
+Casablanca,2021,Automatique,Hybride,174999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,440000
+Casablanca,2020,Automatique,Diesel,104999.5,Audi,Q7,5.0,WW au Maroc,Oui,12,360000
+Casablanca,2011,Automatique,Diesel,224999.5,Volkswagen,Touareg,5.0,WW au Maroc,Non,12,115000
+Casablanca,2019,Automatique,Diesel,97499.5,Audi,Q5,5.0,WW au Maroc,Oui,8,365000
+Casablanca,2019,Automatique,Hybride,92499.5,Toyota,C-HR,5.0,WW au Maroc,Oui,10,195000
+Kasba Tadla,2003,Manuelle,Diesel,194999.5,Volkswagen,Golf 4,5.0,Dédouanée,Non,8,75000
+Temara,2020,Manuelle,Diesel,104999.5,Hyundai,Accent,5.0,WW au Maroc,Oui,6,155000
+Rabat,2022,Automatique,Hybride,154999.5,Ford,Kuga,5.0,Dédouanée,Non,14,300000
+Salé,2021,Manuelle,Diesel,164999.5,Citroën,C5,5.0,WW au Maroc,Oui,6,203000
+Casablanca,2009,Automatique,Essence,124999.5,Bentley,Continental,5.0,Dédouanée,Oui,34,360000
+Casablanca,2024,Automatique,Essence,12499.5,MG,ZS,5.0,WW au Maroc,Oui,8,209000
+Kénitra,2022,Manuelle,Diesel,92499.5,Dacia,Duster,5.0,WW au Maroc,Oui,6,185000
+Marrakech,2019,Manuelle,Diesel,134999.5,Renault,Clio,5.0,WW au Maroc,Non,6,105000
+Casablanca,2017,Automatique,Diesel,104999.5,Mercedes-Benz,Classe C,5.0,WW au Maroc,Non,8,270000
+Meknès,2022,Automatique,Diesel,124999.5,Opel,Grandland,5.0,Dédouanée,Oui,6,248000
+Casablanca,2005,Automatique,Diesel,104999.5,MG,mg3 +,5.0,WW au Maroc,Oui,8,374999
+Casablanca,2013,Automatique,Diesel,194999.5,Jaguar,XF,5.0,WW au Maroc,Non,8,114000
+Fès,2021,Automatique,Diesel,114999.5,Volvo,XC60,5.0,WW au Maroc,Oui,8,335000
+Tanger,2019,Automatique,Diesel,224999.5,Volkswagen,Touareg,5.0,WW au Maroc,Non,12,345000
+Meknès,2022,Automatique,Diesel,154999.5,Volkswagen,Caddy,5.0,Dédouanée,Oui,8,338000
+Casablanca,2015,Automatique,Diesel,72499.5,Porsche,Macan,5.0,WW au Maroc,Oui,12,400000
+Casablanca,2016,Automatique,Diesel,154999.5,Ssangyong,Korando,5.0,Importée neuve,Non,8,92000
+Casablanca,2021,Manuelle,Diesel,104999.5,Renault,Clio,5.0,WW au Maroc,Oui,6,138000
+Rabat,2018,Automatique,Diesel,134999.5,Jeep,Grand Cherokee,5.0,WW au Maroc,Oui,12,135000
+Casablanca,2016,Manuelle,Diesel,104999.5,Dacia,Duster,5.0,WW au Maroc,Oui,6,132000
+Rabat,2019,Manuelle,Diesel,97499.5,Mahindra,KUV 100,5.0,WW au Maroc,Oui,5,85000
+Casablanca,2017,Automatique,Diesel,144999.5,Audi,Q7,5.0,WW au Maroc,Oui,12,400000
+Casablanca,2018,Automatique,Diesel,104999.5,Peugeot,3008,5.0,WW au Maroc,Oui,8,197000
+Rabat,2018,Automatique,Diesel,134999.5,Peugeot,5008,5.0,WW au Maroc,Oui,8,200000
+Kénitra,2023,Automatique,Diesel,82499.5,Kia,Ceed,5.0,WW au Maroc,Oui,6,220000
+Agadir,2022,Automatique,Diesel,134999.5,Dacia,Duster,5.0,WW au Maroc,Oui,6,193000
+Fès,2017,Automatique,Diesel,224999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,285000
+Rabat,2016,Automatique,Diesel,124999.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Oui,12,320000
+Casablanca,2019,Automatique,Diesel,164999.5,Land Rover,Range Rover Evoque,5.0,WW au Maroc,Oui,8,290000
+Tanger,2019,Automatique,Diesel,134999.5,Dacia,Duster,5.0,WW au Maroc,Non,6,176000
+Marrakech,2024,Automatique,Hybride,27499.5,Renault,Clio,5.0,WW au Maroc,Oui,7,248000
+Casablanca,2022,Automatique,Diesel,97499.5,Hyundai,Accent,5.0,WW au Maroc,Non,7,163000
+Marrakech,2015,Manuelle,Diesel,164999.5,Nissan,Qashqai,5.0,WW au Maroc,Non,6,153000
+Marrakech,2022,Automatique,Essence,104999.5,Fiat,500 C,3.0,WW au Maroc,Oui,7,155000
+Fès,2021,Manuelle,Essence,42499.5,Opel,Corsa,5.0,WW au Maroc,Oui,6,123000
+Fès,2013,Automatique,Essence,134999.5,Mercedes-Benz,Classe C,3.0,WW au Maroc,Oui,8,137000
+Casablanca,2010,Manuelle,Diesel,164999.5,Mercedes-Benz,Classe CLC,5.0,WW au Maroc,Non,8,110000
+Marrakech,2023,Automatique,Diesel,52499.5,Land Rover,Range Rover Evoque,5.0,Dédouanée,Non,10,520000
+Marrakech,2022,Automatique,Hybride,124999.5,Toyota,C-HR,5.0,WW au Maroc,Non,8,195000
+Rabat,2024,Automatique,Diesel,22499.5,Peugeot,2008,5.0,WW au Maroc,Oui,6,328000
+Tanger,2013,Automatique,Diesel,274999.5,Hyundai,ix35,5.0,WW au Maroc,Non,8,128000
+Fès,2021,Automatique,Diesel,104999.5,Mercedes-Benz,Classe E,5.0,WW au Maroc,Oui,9,440000
+Casablanca,2017,Automatique,Diesel,124999.5,Audi,A3,5.0,WW au Maroc,Oui,8,215000
+Casablanca,2021,Automatique,Diesel,104999.5,Mercedes-Benz,Classe E,5.0,WW au Maroc,Oui,8,580000
+Salé,2005,Manuelle,Diesel,274999.5,BMW,Série 3,5.0,WW au Maroc,Oui,11,70000
+Temara,2022,Automatique,Diesel,97499.5,BMW,Série 5,5.0,WW au Maroc,Oui,8,450000
+Rabat,2016,Automatique,Diesel,224999.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Non,12,255000
+Rabat,2019,Automatique,Diesel,184999.5,Volkswagen,Touareg,5.0,Dédouanée,Oui,12,300000
+Rabat,2023,Automatique,Diesel,97499.5,Audi,Q8,5.0,WW au Maroc,Non,8,780000
+Casablanca,2012,Automatique,Diesel,124999.5,Audi,A6,5.0,Dédouanée,Non,8,150000
+Oujda,2017,Manuelle,Diesel,224999.5,Volkswagen,Touran,5.0,Dédouanée,Oui,6,192000
+Tanger,2017,Automatique,Diesel,194999.5,Audi,Q5,5.0,WW au Maroc,Non,8,269000
+El Jadida,2018,Automatique,Diesel,174999.5,Peugeot,5008,5.0,WW au Maroc,Oui,8,182000
+Rabat,2023,Automatique,Diesel,37499.5,BMW,X1,5.0,WW au Maroc,Oui,8,425000
+Meknès,2020,Automatique,Diesel,124999.5,Volkswagen,T-Roc,5.0,Dédouanée,Oui,8,329000
+Tétouan,2022,Automatique,Diesel,97499.5,Audi,A4,5.0,WW au Maroc,Oui,8,330000
+Casablanca,2021,Automatique,Diesel,104999.5,Audi,Q3,5.0,Importée neuve,Oui,8,505000
+Kénitra,2015,Automatique,Diesel,114999.5,BMW,Série 4,5.0,WW au Maroc,Non,8,250000
+Fès,2021,Manuelle,Diesel,164999.5,Dacia,Dokker,5.0,WW au Maroc,Non,6,128000
+Tanger,2021,Manuelle,Diesel,164999.5,Renault,Express,5.0,WW au Maroc,Oui,6,162000
+Marrakech,2022,Manuelle,Diesel,77499.5,Peugeot,208,5.0,Dédouanée,Oui,6,148000
+Casablanca,2019,Automatique,Diesel,97499.5,Land Rover,Range Rover Evoque,3.0,Dédouanée,Oui,8,360000
+Rabat,2015,Manuelle,Diesel,174999.5,Ford,Kuga,5.0,WW au Maroc,Non,8,150000
+Agadir,2019,Manuelle,Diesel,124999.5,Dacia,Lodgy,5.0,WW au Maroc,Non,6,138000
+Casablanca,2019,Manuelle,Diesel,114999.5,Dacia,Dokker,5.0,WW au Maroc,Oui,6,123000
+Casablanca,2021,Manuelle,Diesel,82499.5,Peugeot,208,5.0,WW au Maroc,Oui,6,142000
+Nador,1997,Automatique,Essence,194999.5,Mercedes-Benz,240,5.0,Dédouanée,Oui,14,210000
+Rabat,2022,Automatique,Diesel,97499.5,Kia,Sportage,5.0,WW au Maroc,Oui,6,298000
+Casablanca,2020,Automatique,Diesel,124999.5,Volkswagen,Tiguan,5.0,Dédouanée,Non,8,300000
+Casablanca,2020,Automatique,Diesel,77499.5,Volkswagen,Touareg,5.0,WW au Maroc,Oui,12,279000
+Casablanca,2022,Manuelle,Diesel,27499.5,Citroën,C3,5.0,WW au Maroc,Non,6,159000
+Casablanca,2016,Automatique,Diesel,124999.5,Seat,Leon,5.0,WW au Maroc,Non,6,153000
+Casablanca,2019,Manuelle,Diesel,114999.5,Peugeot,208,5.0,WW au Maroc,Oui,6,128000
+Marrakech,2015,Automatique,Diesel,224999.5,Volkswagen,Touareg,5.0,WW au Maroc,Non,12,155000
+Casablanca,2022,Automatique,Essence,97499.5,Kia,Picanto,5.0,WW au Maroc,Oui,6,108500
+Marrakech,2019,Automatique,Diesel,134999.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,285000
+Casablanca,2011,Manuelle,Diesel,164999.5,Ford,Focus,5.0,WW au Maroc,Oui,6,88000
+Casablanca,2020,Automatique,Diesel,92499.5,Mercedes-Benz,Classe CLA,5.0,WW au Maroc,Non,8,345000
+Casablanca,2020,Manuelle,Diesel,144999.5,Citroën,C3,5.0,WW au Maroc,Oui,6,125000
+Kénitra,2015,Manuelle,Diesel,164999.5,Volkswagen,Polo,5.0,WW au Maroc,Oui,5,105000
+Casablanca,2021,Automatique,Hybride,82499.5,Mercedes-Benz,Classe GLC,5.0,Dédouanée,Non,8,665000
+Casablanca,2023,Automatique,Diesel,32499.5,Volkswagen,Touareg,5.0,WW au Maroc,Oui,12,599000
+Temara,2019,Automatique,Diesel,144999.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,260000
+Casablanca,2019,Manuelle,Essence,52499.5,Skoda,Fabia,5.0,WW au Maroc,Non,6,115000
+Marrakech,2023,Automatique,Essence,27499.5,Ford,Mustang,3.0,Dédouanée,Oui,13,400000
+Rabat,2024,Automatique,Diesel,32499.5,Citroën,C5,5.0,WW au Maroc,Oui,6,285000
+Casablanca,2024,Automatique,Essence,17499.5,Fiat,500,3.0,WW au Maroc,Oui,7,165000
+Casablanca,2023,Automatique,Diesel,92499.5,Audi,Q5,5.0,Importée neuve,Oui,8,680000
+Rabat,2025,Automatique,Diesel,2499.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,425000
+Marrakech,2014,Manuelle,Diesel,154999.5,Ford,Kuga,5.0,WW au Maroc,Oui,8,145000
+Temara,2019,Automatique,Diesel,144999.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,260000
+Casablanca,2019,Manuelle,Essence,52499.5,Skoda,Fabia,5.0,WW au Maroc,Non,6,115000
+Marrakech,2023,Automatique,Essence,27499.5,Ford,Mustang,3.0,Dédouanée,Oui,13,400000
+Rabat,2024,Automatique,Diesel,32499.5,Citroën,C5,5.0,WW au Maroc,Oui,6,285000
+Casablanca,2024,Automatique,Essence,17499.5,Fiat,500,3.0,WW au Maroc,Oui,7,165000
+Casablanca,2023,Automatique,Diesel,92499.5,Audi,Q5,5.0,Importée neuve,Oui,8,680000
+Rabat,2025,Automatique,Diesel,2499.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,425000
+Casablanca,2019,Manuelle,Diesel,114999.5,Dacia,Dokker,5.0,WW au Maroc,Oui,6,123000
+Casablanca,2021,Manuelle,Diesel,82499.5,Peugeot,208,5.0,WW au Maroc,Oui,6,142000
+Nador,1997,Automatique,Essence,194999.5,Mercedes-Benz,240,5.0,Dédouanée,Oui,14,210000
+Rabat,2022,Automatique,Diesel,97499.5,Kia,Sportage,5.0,WW au Maroc,Oui,6,298000
+Rabat,2019,Automatique,Diesel,184999.5,Volkswagen,Touareg,5.0,Dédouanée,Oui,12,300000
+Rabat,2023,Automatique,Diesel,97499.5,Audi,Q8,5.0,WW au Maroc,Non,8,780000
+Casablanca,2012,Automatique,Diesel,124999.5,Audi,A6,5.0,Dédouanée,Non,8,150000
+وجدة,2017,Manuelle,Diesel,224999.5,Volkswagen,Touran,5.0,Dédouanée,Oui,6,192000
+Tanger,2017,Automatique,Diesel,194999.5,Audi,Q5,5.0,WW au Maroc,Non,8,269000
+Oujda,2017,Manuelle,Diesel,224999.5,Volkswagen,Touran,5.0,Dédouanée,Oui,6,192000
+El Jadida,2018,Automatique,Diesel,174999.5,Peugeot,5008,5.0,WW au Maroc,Oui,8,182000
+Rabat,2023,Automatique,Diesel,37499.5,BMW,X1,5.0,WW au Maroc,Oui,8,425000
+Meknès,2020,Automatique,Diesel,124999.5,Volkswagen,T-Roc,5.0,Dédouanée,Oui,8,329000
+Casablanca,2019,Automatique,Diesel,124999.5,Audi,Q8,5.0,Dédouanée,Oui,12,550000
+Tétouan,2020,Automatique,Diesel,97499.5,Volkswagen,Jetta,5.0,WW au Maroc,Oui,8,207000
+Fquih Ben Saleh,2024,Automatique,Diesel,37499.5,Peugeot,2008,5.0,WW au Maroc,Oui,6,250000
+Casablanca,2020,Automatique,Diesel,77499.5,Volkswagen,Touareg,5.0,WW au Maroc,Oui,12,279000
+Casablanca,2022,Manuelle,Diesel,27499.5,Citroën,C3,5.0,WW au Maroc,Non,6,159000
+Casablanca,2016,Automatique,Diesel,124999.5,Seat,Leon,5.0,WW au Maroc,Non,6,153000
+Casablanca,2019,Manuelle,Diesel,114999.5,Peugeot,208,5.0,WW au Maroc,Oui,6,128000
+Marrakech,2015,Automatique,Diesel,224999.5,Volkswagen,Touareg,5.0,WW au Maroc,Non,12,155000
+Casablanca,2022,Automatique,Essence,97499.5,Kia,Picanto,5.0,WW au Maroc,Oui,6,108500
+Casablanca,2020,Automatique,Diesel,77499.5,Volkswagen,Touareg,5.0,WW au Maroc,Oui,12,279000
+Marrakech,2023,Automatique,Diesel,17499.5,Opel,Grandland,5.0,WW au Maroc,Oui,6,295000
+Marrakech,2015,Automatique,Diesel,194999.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Non,12,270000
+Marrakech,2014,Automatique,Diesel,124999.5,Jeep,Grand Cherokee,5.0,Dédouanée,Non,12,165000
+Fès,2021,Manuelle,Diesel,92499.5,Renault,Clio,5.0,WW au Maroc,Oui,6,128000
+Agadir,2020,Automatique,Diesel,144999.5,Skoda,Karoq,5.0,Dédouanée,Oui,6,278000
+Rabat,2015,Automatique,Diesel,194999.5,Mercedes-Benz,Classe GLC,5.0,WW au Maroc,Non,9,285000
+Rabat,2023,Automatique,Diesel,97499.5,Audi,A6,5.0,WW au Maroc,Oui,8,425000
+Casablanca,2020,Automatique,Diesel,104999.5,Land Rover,Range Rover,5.0,WW au Maroc,Oui,8,295000
+Casablanca,2020,Automatique,Diesel,104999.5,BMW,Série 1,5.0,WW au Maroc,Oui,6,255000
+Marrakech,2019,Automatique,Diesel,144999.5,Alfa Romeo,Giulia,5.0,WW au Maroc,Non,8,225000
+Marrakech,2021,Manuelle,Diesel,87499.5,Renault,Clio,5.0,WW au Maroc,Oui,6,133000
+Casablanca,2022,Automatique,Hybride,97499.5,Toyota,Corolla,5.0,WW au Maroc,Oui,10,207000
+Casablanca,2014,Automatique,Diesel,194999.5,BMW,Série 3,5.0,WW au Maroc,Non,8,179000
+Casablanca,2019,Automatique,Diesel,104999.5,Mazda,6,5.0,WW au Maroc,Oui,9,188000
+Rabat,2025,Manuelle,Diesel,7499.5,Opel,Corsa,5.0,WW au Maroc,Oui,7,200000
+Rabat,2023,Automatique,Diesel,72499.5,Kia,Carens,5.0,WW au Maroc,Oui,6,207000
+Casablanca,2016,Automatique,Diesel,154999.5,Kia,Sportage,5.0,WW au Maroc,Non,8,155000
+Safi,2018,Automatique,Diesel,164999.5,Volkswagen,Tiguan,5.0,Dédouanée,Non,8,335000
+Casablanca,2016,Automatique,Diesel,154999.5,Kia,Sportage,5.0,WW au Maroc,Non,8,155000
+Rabat,1987,Manuelle,Diesel,224999.5,Volkswagen,Golf 1,5.0,Dédouanée,Oui,6,45000
+Casablanca,2021,Manuelle,Diesel,104999.5,Opel,Grandland,5.0,WW au Maroc,Oui,6,188000
+تطوان,2023,Automatique,Diesel,72499.5,Peugeot,308,5.0,WW au Maroc,Non,6,270000
+Tanger,2023,Automatique,Hybride,12499.5,Toyota,Corolla,5.0,WW au Maroc,Oui,10,250000
+Casablanca,2018,Automatique,Diesel,144999.5,Renault,Megane,5.0,WW au Maroc,Non,6,162000
+Fès,2021,Automatique,Diesel,164999.5,Jeep,Grand Cherokee,5.0,WW au Maroc,Non,12,204000
+Casablanca,2022,Manuelle,Diesel,72499.5,Opel,Crossland,5.0,WW au Maroc,Oui,6,175000
+Casablanca,2023,Automatique,Diesel,82499.5,Dacia,Duster,5.0,WW au Maroc,Non,6,218000
+Salé,2021,Manuelle,Diesel,164999.5,Citroën,C5,5.0,WW au Maroc,Oui,6,203000
+Casablanca,2019,Automatique,Diesel,124999.5,BMW,X5,5.0,WW au Maroc,Oui,12,449000
+Casablanca,2012,Manuelle,Diesel,194999.5,Ford,Focus,3.0,WW au Maroc,Non,7,120000
+Casablanca,2019,Automatique,Diesel,134999.5,Land Rover,Range Rover Evoque,5.0,WW au Maroc,Non,8,310000
+El Jadida,2018,Automatique,Diesel,144999.5,Mercedes-Benz,Classe GLC,5.0,WW au Maroc,Oui,9,340000
+Casablanca,2022,Automatique,Diesel,72499.5,Audi,A5,5.0,WW au Maroc,Oui,8,520000
+Tétouan,2020,Manuelle,Diesel,82499.5,Dacia,Duster,5.0,WW au Maroc,Oui,6,166000
+Casablanca,2024,Manuelle,Diesel,42499.5,Fiat,Fiorino,3.0,WW au Maroc,Oui,6,125000
+Marrakech,2014,Automatique,Diesel,124999.5,Jeep,Grand Cherokee,5.0,Dédouanée,Non,12,165000
+Casablanca,2015,Automatique,Diesel,114999.5,BMW,Série 4,5.0,WW au Maroc,Non,8,226000
+Rabat,2024,Automatique,Essence,17499.5,Fiat,500,5.0,WW au Maroc,Oui,6,164000
+Casablanca,2022,Automatique,Diesel,62499.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,252000
+Fès,2021,Automatique,Diesel,82499.5,Audi,Q2,5.0,WW au Maroc,Oui,8,270000
+Marrakech,1999,Manuelle,Essence,164999.5,Volkswagen,Coccinelle,3.0,Dédouanée,Non,11,50000
+El Jadida,2021,Automatique,Diesel,87499.5,Mercedes-Benz,Classe GLE,5.0,WW au Maroc,Oui,12,550000
+Tétouan,2021,Manuelle,Diesel,144999.5,Seat,Ibiza,5.0,WW au Maroc,Oui,6,195000
+Agadir,2012,Automatique,Diesel,224999.5,Mercedes-Benz,Classe E,5.0,WW au Maroc,Non,9,155000
+Rabat,2012,Automatique,Essence,174999.5,Subaru,Legacy,5.0,WW au Maroc,Non,14,90000
+Casablanca,2021,Manuelle,Diesel,174999.5,Dacia,Sandero,5.0,WW au Maroc,Oui,6,128000
+Casablanca,2021,Manuelle,Diesel,134999.5,Dacia,Logan,5.0,WW au Maroc,Oui,6,119000
+Berrechid,2011,Automatique,Diesel,224999.5,Mercedes-Benz,Classe CLS,5.0,Importée neuve,Non,12,185000
+Tétouan,2019,Manuelle,Diesel,87499.5,Ford,C Max,5.0,WW au Maroc,Non,7,168000
+Casablanca,2012,Automatique,Diesel,274999.5,Audi,Q5,5.0,WW au Maroc,Non,8,155000
+Casablanca,2018,Manuelle,Diesel,144999.5,Dacia,Sandero,5.0,WW au Maroc,Oui,6,112000
+Tétouan,2018,Automatique,Diesel,144999.5,Hyundai,i30,5.0,WW au Maroc,Non,6,168000
+Agadir,2024,Automatique,Diesel,12499.5,Audi,A6,5.0,WW au Maroc,Oui,8,463000
+Casablanca,2023,Automatique,Diesel,82499.5,Peugeot,208,5.0,WW au Maroc,Oui,6,194000
+Tanger,2014,Automatique,Diesel,194999.5,BMW,X1,5.0,WW au Maroc,Non,8,156000
+Khouribga,2023,Manuelle,Diesel,104999.5,Dacia,Sandero,5.0,WW au Maroc,Oui,6,143000
+Casablanca,2021,Manuelle,Diesel,124999.5,Renault,Clio,5.0,WW au Maroc,Oui,6,129000
+Rabat,2007,Automatique,Diesel,144999.5,Volkswagen,Touareg,5.0,WW au Maroc,Non,11,135000
+Tanger,2012,Manuelle,Diesel,274999.5,Citroën,C4,5.0,WW au Maroc,Non,6,98000
+Casablanca,2016,Automatique,Diesel,174999.5,Volkswagen,Touareg,5.0,WW au Maroc,Oui,12,158000
+Khouribga,2019,Automatique,Diesel,194999.5,Mercedes-Benz,Classe A,5.0,Dédouanée,Non,8,329000
+Khouribga,2020,Manuelle,Diesel,134999.5,Seat,Arona,5.0,Dédouanée,Oui,6,235000
+Khouribga,2019,Automatique,Diesel,184999.5,Mercedes-Benz,Classe CLC,5.0,Dédouanée,Oui,8,339000
+Marrakech,2011,Manuelle,Diesel,324999.5,Volkswagen,Tiguan,5.0,WW au Maroc,Non,8,145000
+Rabat,2009,Manuelle,Diesel,82499.5,Alfa Romeo,159,5.0,WW au Maroc,Non,10,135000
+Tanger,2024,Automatique,Essence,22499.5,Volkswagen,Golf 8,5.0,Importée neuve,Non,11,510000
+Casablanca,2025,Manuelle,Diesel,52499.5,Fiat,Fiorino,5.0,WW au Maroc,Oui,5,98000
+Khouribga,2021,Manuelle,Diesel,144999.5,Dacia,Sandero,5.0,WW au Maroc,Oui,6,133000
+Rabat,2021,Automatique,Hybride,97499.5,Cupra,Formentor,5.0,Importée neuve,Oui,8,335000
+Casablanca,2019,Automatique,Diesel,114999.5,BMW,X3,5.0,WW au Maroc,Oui,8,290000
+Marrakech,2023,Automatique,Essence,27499.5,Fiat,500 X,5.0,WW au Maroc,Oui,8,200000
+Casablanca,2023,Automatique,Diesel,124999.5,Land Rover,Range Rover Evoque,5.0,WW au Maroc,Oui,8,378000
+Tétouan,2019,Manuelle,Diesel,92499.5,Iveco,Daily,5.0,WW au Maroc,Oui,10,275000
+Kénitra,2021,Automatique,Diesel,124999.5,Renault,Clio,5.0,WW au Maroc,Oui,6,143000
+Kénitra,2020,Manuelle,Diesel,92499.5,Renault,Clio,5.0,WW au Maroc,Non,6,130000
+Casablanca,2021,Automatique,Diesel,82499.5,Peugeot,2008,5.0,WW au Maroc,Oui,6,249000
+Casablanca,2023,Manuelle,Diesel,77499.5,Renault,Clio,5.0,WW au Maroc,Oui,6,158000
+Agadir,2019,Automatique,Diesel,72499.5,Renault,Clio,5.0,WW au Maroc,Oui,6,148000
+Casablanca,2022,Automatique,Diesel,82499.5,Hyundai,Accent,5.0,WW au Maroc,Oui,6,159000
+Ouazzane,2022,Manuelle,Diesel,2499.5,Dacia,Sandero,5.0,WW au Maroc,Non,6,140000
+Fès,2017,Automatique,Diesel,42499.5,Rover,Mini,5.0,WW au Maroc,Oui,8,250000
+Fès,2019,Manuelle,Diesel,87499.5,Opel,Crossland,5.0,WW au Maroc,Oui,6,150000
+Fès,2012,Manuelle,Essence,164999.5,Skoda,Fabia,5.0,Dédouanée,Non,7,73000
+Rabat,2007,Automatique,Essence,164999.5,Audi,A6,5.0,WW au Maroc,Non,14,65000
+Casablanca,2021,Automatique,Diesel,114999.5,Audi,A4,5.0,WW au Maroc,Non,8,310000
+Casablanca,2023,Automatique,Diesel,82499.5,Land Rover,Range Rover Evoque,5.0,WW au Maroc,Oui,9,446000
+Meknès,2016,Automatique,Diesel,144999.5,Maserati,Ghibli,5.0,WW au Maroc,Non,12,250000
+Casablanca,2025,Automatique,Diesel,7499.5,Mercedes-Benz,Classe E,3.0,Importée neuve,Oui,8,850000
+Marrakech,2023,Automatique,Hybride,57499.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,9,335000
+Tanger,2018,Automatique,Diesel,144999.5,Hyundai,i30,5.0,WW au Maroc,Non,6,168000
+Casablanca,2022,Automatique,Diesel,72499.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,255000
+Tanger,2021,Automatique,Hybride,104999.5,Hyundai,Sonata,5.0,WW au Maroc,Oui,11,260000
+Casablanca,2017,Automatique,Diesel,87499.5,Volkswagen,New Beetle,5.0,WW au Maroc,Non,8,215000
+Agadir,2018,Automatique,Diesel,124999.5,Seat,Ateca,5.0,WW au Maroc,Oui,8,232000
+Casablanca,2019,Automatique,Diesel,77499.5,Mercedes-Benz,Classe G,5.0,WW au Maroc,Oui,12,1150000
+Casablanca,2023,Manuelle,Diesel,57499.5,Renault,Express,5.0,WW au Maroc,Oui,6,160000
+Casablanca,2018,Manuelle,Diesel,104999.5,Hyundai,Creta,5.0,WW au Maroc,Oui,6,175000
+Rabat,2020,Automatique,Diesel,7499.5,Audi,Q8,5.0,WW au Maroc,Oui,11,640000
+Ain Harrouda,2013,Manuelle,Diesel,224999.5,Seat,Leon,5.0,WW au Maroc,Non,6,135000
+Tanger,2022,Manuelle,Diesel,52499.5,Renault,Express,5.0,WW au Maroc,Oui,6,159000
+Casablanca,2022,Automatique,Diesel,97499.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,280000
+Agadir,2024,Automatique,Essence,2499.5,Ford,Mustang,3.0,WW au Maroc,Oui,13,540000
+Casablanca,2020,Automatique,Diesel,124999.5,Audi,Q8,5.0,WW au Maroc,Oui,12,750000
+Marrakech,2018,Automatique,Diesel,124999.5,Peugeot,3008,5.0,WW au Maroc,Oui,8,209000
+Casablanca,2015,Automatique,Diesel,72499.5,Porsche,Macan,5.0,WW au Maroc,Oui,12,400000
+Casablanca,2023,Manuelle,Diesel,57499.5,Renault,Express,5.0,WW au Maroc,Oui,6,160000
+Casablanca,2024,Automatique,Diesel,72499.5,Audi,Q3,5.0,WW au Maroc,Oui,8,540000
+Agadir,2021,Automatique,Diesel,92499.5,Mercedes-Benz,Classe CLA,5.0,Dédouanée,Oui,8,450000
+Casablanca,2023,Manuelle,Diesel,62499.5,Renault,Express,5.0,WW au Maroc,Oui,6,145000
+Agadir,2023,Manuelle,Diesel,92499.5,Dacia,Logan,5.0,WW au Maroc,Non,6,135000
+Casablanca,2019,Manuelle,Diesel,164999.5,Dacia,Sandero,3.0,WW au Maroc,Oui,6,122000
+Tanger,2023,Automatique,Hybride,82499.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,9,335000
+Casablanca,2012,Manuelle,Diesel,194999.5,Opel,Astra,3.0,WW au Maroc,Non,7,80000
+Tanger,2015,Automatique,Diesel,184999.5,Mercedes-Benz,Classe V,5.0,WW au Maroc,Non,9,318000
+Casablanca,2013,Manuelle,Diesel,194999.5,Toyota,Avensis,5.0,WW au Maroc,Oui,8,100000
+Casablanca,2012,Manuelle,Diesel,174999.5,Audi,A1,3.0,WW au Maroc,Oui,6,113000
+Meknès,2006,Manuelle,Diesel,274999.5,Citroën,Xsara,5.0,WW au Maroc,Non,8,60000
+Marrakech,1987,Manuelle,Diesel,224999.5,Volkswagen,Golf 2,5.0,Dédouanée,Non,6,25000
+Kénitra,2022,Automatique,Diesel,92499.5,Dacia,Duster,5.0,WW au Maroc,Non,6,210000
+Oujda,2020,Automatique,Diesel,134999.5,Seat,Ateca,5.0,Dédouanée,Oui,8,273000
+Marrakech,2025,Automatique,Hybride,2499.5,Porsche,Cayenne,5.0,Importée neuve,Oui,17,1757500
+Casablanca,2023,Automatique,Diesel,92499.5,Audi,Q5,5.0,Importée neuve,Oui,8,680000
+Fès,2021,Automatique,Diesel,124999.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,263000
+Casablanca,2024,Automatique,Hybride,12499.5,Jeep,Wrangler,5.0,Dédouanée,Oui,11,680000
+Agadir,2023,Manuelle,Diesel,62499.5,Seat,Arona,5.0,WW au Maroc,Oui,6,209000
+Fès,2022,Automatique,Diesel,124999.5,Hyundai,Accent,5.0,WW au Maroc,Non,6,140000
+Fès,2021,Automatique,Diesel,92499.5,Peugeot,3008,5.0,WW au Maroc,Non,8,239000
+Safi,2018,Automatique,Diesel,164999.5,Volkswagen,Tiguan,5.0,Dédouanée,Non,8,335000
+Casablanca,2018,Automatique,Diesel,154999.5,Mazda,CX-5,5.0,WW au Maroc,Non,9,195000
+Casablanca,2021,Automatique,Diesel,42499.5,Opel,Crossland,5.0,WW au Maroc,Oui,6,187000
+Fès,2023,Manuelle,Diesel,72499.5,Opel,Corsa,5.0,WW au Maroc,Non,6,143000
+Marrakech,2021,Automatique,Diesel,154999.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,295000
+Casablanca,2023,Automatique,Diesel,104999.5,BMW,X5,5.0,WW au Maroc,Oui,8,630000
+Casablanca,2024,Automatique,Diesel,32499.5,Kia,Sportage,5.0,WW au Maroc,Oui,6,270000
+Rabat,2021,Manuelle,Diesel,92499.5,Dacia,Logan,5.0,WW au Maroc,Oui,6,137000
+Tanger,2023,Automatique,Hybride,82499.5,Hyundai,Elantra,5.0,WW au Maroc,Oui,9,198000
+Casablanca,2021,Automatique,Diesel,104999.5,Mercedes-Benz,Classe E,5.0,WW au Maroc,Oui,8,580000
+Casablanca,2021,Automatique,Diesel,104999.5,Mercedes-Benz,Classe E,5.0,WW au Maroc,Oui,8,580000
+Agadir,2023,Manuelle,Diesel,92499.5,Dacia,Logan,5.0,WW au Maroc,Non,6,135000
+Casablanca,2019,Manuelle,Diesel,164999.5,Dacia,Sandero,3.0,WW au Maroc,Oui,6,122000
+Tanger,2023,Automatique,Hybride,82499.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,9,335000
+Casablanca,2013,Automatique,Diesel,324999.5,BMW,Série 6,5.0,WW au Maroc,Oui,13,195000
+Casablanca,2024,Automatique,Diesel,32499.5,Kia,Sportage,5.0,WW au Maroc,Oui,6,270000
+Rabat,2021,Manuelle,Diesel,92499.5,Dacia,Logan,5.0,WW au Maroc,Oui,6,137000
+Tanger,2023,Automatique,Hybride,82499.5,Hyundai,Elantra,5.0,WW au Maroc,Oui,9,198000
+Casablanca,2021,Automatique,Diesel,104999.5,Mercedes-Benz,Classe E,5.0,WW au Maroc,Oui,8,580000
+Casablanca,2012,Manuelle,Diesel,194999.5,Opel,Astra,3.0,WW au Maroc,Non,7,80000
+Tanger,2015,Automatique,Diesel,184999.5,Mercedes-Benz,Classe V,5.0,WW au Maroc,Non,9,318000
+Casablanca,2013,Manuelle,Diesel,194999.5,Toyota,Avensis,5.0,WW au Maroc,Oui,8,100000
+Casablanca,2012,Manuelle,Diesel,174999.5,Audi,A1,3.0,WW au Maroc,Oui,6,113000
+Meknès,2006,Manuelle,Diesel,274999.5,Citroën,Xsara,5.0,WW au Maroc,Non,8,60000
+Marrakech,1987,Manuelle,Diesel,224999.5,Volkswagen,Golf 2,5.0,Dédouanée,Non,6,25000
+Kénitra,2022,Automatique,Diesel,92499.5,Dacia,Duster,5.0,WW au Maroc,Non,6,210000
+Tanger,2017,Automatique,Diesel,194999.5,Audi,Q5,5.0,WW au Maroc,Non,8,269000
+Tanger,2020,Automatique,Diesel,72499.5,Volkswagen,Polo,5.0,Importée neuve,Non,6,250000
+Tanger,2015,Automatique,Diesel,194999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,253000
+Rabat,2021,Automatique,Essence,22499.5,Fiat,500,3.0,WW au Maroc,Oui,7,142000
+Casablanca,2021,Automatique,Hybride,62499.5,Toyota,RAV-4,5.0,WW au Maroc,Oui,14,280000
+Casablanca,2017,Automatique,Diesel,124999.5,BMW,X5,5.0,WW au Maroc,Oui,8,300000
+Agadir,2021,Automatique,Diesel,144999.5,Audi,A4,5.0,WW au Maroc,Oui,8,345000
+Casablanca,2019,Automatique,Diesel,144999.5,Renault,Kadjar,5.0,WW au Maroc,Non,6,203000
+Tétouan,2023,Manuelle,Diesel,42499.5,Opel,Combo,5.0,WW au Maroc,Oui,6,175000
+Tanger,2022,Automatique,Diesel,104999.5,Peugeot,208,5.0,WW au Maroc,Non,6,165000
+Tit Mellil,2016,Manuelle,Diesel,104999.5,Volkswagen,Tiguan,3.0,WW au Maroc,Oui,8,198000
+Fès,2023,Manuelle,Diesel,52499.5,Renault,Clio,5.0,WW au Maroc,Oui,6,153000
+Casablanca,2019,Automatique,Diesel,72499.5,Land Rover,Range Rover Velar,5.0,WW au Maroc,Oui,8,415000
+Casablanca,2002,Automatique,Essence,104999.5,Jaguar,XJ,5.0,WW au Maroc,Oui,23,160000
+Rabat,2017,Manuelle,Essence,47499.5,Opel,Corsa,5.0,WW au Maroc,Non,7,110000
+Fès,2004,Manuelle,Diesel,224999.5,Nissan,X-Trail,5.0,WW au Maroc,Non,9,75000
+Casablanca,2023,Manuelle,Diesel,92499.5,Opel,Combo,5.0,WW au Maroc,Oui,6,165000
+Tétouan,2020,Automatique,Essence,47499.5,Fiat,500,3.0,WW au Maroc,Non,7,124000
+Tanger,2020,Automatique,Diesel,134999.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Oui,12,455000
+Casablanca,2021,Manuelle,Diesel,67499.5,Seat,Ibiza,5.0,WW au Maroc,Oui,6,184000
+Ouarzazate,2015,Manuelle,Diesel,224999.5,Mercedes-Benz,Citan,5.0,Dédouanée,Oui,6,135000
+Tanger,2017,Automatique,Essence,47499.5,Mercedes-Benz,Classe S,3.0,Importée neuve,Oui,17,725000
+Casablanca,2019,Automatique,Diesel,97499.5,Land Rover,Range Rover Evoque,3.0,Dédouanée,Oui,8,360000
+Marrakech,2022,Manuelle,Diesel,124999.5,Peugeot,208,5.0,WW au Maroc,Oui,6,159000
+Casablanca,2019,Automatique,Diesel,97499.5,BMW,X5,5.0,WW au Maroc,Oui,12,445000
+Kénitra,2022,Automatique,Diesel,97499.5,Jeep,Renegade,5.0,WW au Maroc,Non,6,218000
+Casablanca,2012,Manuelle,Diesel,194999.5,Audi,Q5,3.0,WW au Maroc,Oui,8,133000
+Casablanca,2014,Manuelle,Diesel,274999.5,Hyundai,i30,5.0,WW au Maroc,Oui,6,113000
+Fès,2022,Automatique,Diesel,124999.5,Hyundai,Accent,5.0,WW au Maroc,Non,6,142000
+Tanger,2022,Manuelle,Diesel,87499.5,Renault,Express,5.0,WW au Maroc,Oui,6,164000
+Casablanca,2022,Automatique,Diesel,72499.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,255000
+Agadir,2018,Automatique,Diesel,124999.5,Seat,Ateca,5.0,WW au Maroc,Oui,8,232000
+Fquih Ben Saleh,2024,Manuelle,Diesel,52499.5,Renault,Clio,5.0,WW au Maroc,Non,6,200000
+Tétouan,2023,Automatique,Diesel,32499.5,BMW,Série 5,5.0,WW au Maroc,Non,9,440000
+Casablanca,2021,Automatique,Hybride,62499.5,Toyota,RAV-4,5.0,WW au Maroc,Oui,14,280000
+Casablanca,2024,Automatique,Hybride,12499.5,Jeep,Wrangler,5.0,Dédouanée,Oui,11,680000
+Agadir,2023,Manuelle,Diesel,62499.5,Seat,Arona,5.0,WW au Maroc,Oui,6,209000
+Fès,2022,Automatique,Diesel,124999.5,Hyundai,Accent,5.0,WW au Maroc,Non,6,140000
+Fès,2021,Automatique,Diesel,92499.5,Peugeot,3008,5.0,WW au Maroc,Non,8,239000
+Casablanca,2018,Automatique,Diesel,154999.5,Mazda,CX-5,5.0,WW au Maroc,Non,9,195000
+Casablanca,2021,Automatique,Diesel,42499.5,Opel,Crossland,5.0,WW au Maroc,Oui,6,187000
+Fès,2023,Manuelle,Diesel,72499.5,Opel,Corsa,5.0,WW au Maroc,Non,6,143000
+Marrakech,2021,Automatique,Diesel,154999.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,295000
+Casablanca,2023,Automatique,Diesel,104999.5,BMW,X5,5.0,WW au Maroc,Oui,8,630000
+Casablanca,2019,Manuelle,Diesel,164999.5,Dacia,Dokker,3.0,WW au Maroc,Non,6,133000
+Rabat,2018,Automatique,Diesel,154999.5,BMW,X1,5.0,WW au Maroc,Non,8,232000
+Marrakech,2024,Automatique,Electrique,42499.5,Mercedes-Benz,EQA,5.0,Dédouanée,Oui,8,580000
+Tanger,2020,Automatique,Diesel,92499.5,Mitsubishi,Pajero,5.0,WW au Maroc,Oui,10,289000
+Casablanca,2021,Automatique,Diesel,104999.5,Volkswagen,T-Roc,5.0,WW au Maroc,Oui,8,269000
+Rabat,2020,Automatique,Diesel,114999.5,BMW,X5,5.0,WW au Maroc,Oui,12,640000
+Casablanca,2019,Automatique,Diesel,97499.5,Audi,A4,5.0,WW au Maroc,Oui,8,235000
+Marrakech,2025,Automatique,Diesel,2499.5,Mercedes-Benz,Vito,5.0,Importée neuve,Oui,8,1377500
+Casablanca,2013,Manuelle,Diesel,97499.5,Renault,Kangoo,3.0,WW au Maroc,Non,6,96000
+Tanger,2019,Automatique,Diesel,124999.5,BMW,X3,5.0,WW au Maroc,Non,8,340000
+Casablanca,2022,Automatique,Diesel,154999.5,Audi,Q3,5.0,Dédouanée,Oui,8,550000
+Tanger,2022,Automatique,Essence,62499.5,Land Rover,Range Rover Evoque,5.0,WW au Maroc,Oui,11,350000
+Casablanca,2021,Automatique,Diesel,92499.5,Renault,Megane,5.0,WW au Maroc,Non,6,175000
+مراكش,2025,Automatique,Diesel,2499.5,Mercedes-Benz,Vito,5.0,Importée neuve,Oui,8,1377500
+Fès,2019,Automatique,Diesel,174999.5,Volkswagen,Touareg,5.0,WW au Maroc,Oui,12,390000
+Casablanca,2021,Automatique,Diesel,124999.5,Volkswagen,Golf 8,5.0,Importée neuve,Non,8,365000
+Rabat,2014,Manuelle,Essence,67499.5,Fiat,500,3.0,WW au Maroc,Oui,6,82000
+Casablanca,2010,Automatique,Diesel,274999.5,BMW,Série 5,5.0,WW au Maroc,Non,8,155000
+Marrakech,2022,Manuelle,Diesel,82499.5,Renault,Megane,5.0,WW au Maroc,Oui,6,199000
+Casablanca,2020,Automatique,Diesel,114999.5,Opel,Grandland,5.0,WW au Maroc,Non,6,215000
+Casablanca,2007,Automatique,Diesel,274999.5,Audi,A6,3.0,WW au Maroc,Oui,12,68000
+Casablanca,2017,Manuelle,Diesel,224999.5,Skoda,Octavia,3.0,WW au Maroc,Oui,7,140000
+Casablanca,2024,Automatique,Hybride,17499.5,Kia,Sportage,5.0,WW au Maroc,Oui,9,330000
+Fès,2022,Automatique,Diesel,77499.5,Dacia,Duster,5.0,WW au Maroc,Oui,6,199000
+Casablanca,2016,Automatique,Diesel,154999.5,Volvo,S60,5.0,WW au Maroc,Non,8,153000
+Fès,2018,Automatique,Diesel,164999.5,Audi,Q7,5.0,WW au Maroc,Non,12,320000
+Kénitra,2018,Automatique,Diesel,104999.5,Mercedes-Benz,Classe C,3.0,Importée neuve,Oui,8,440000
+Fès,2019,Automatique,Diesel,224999.5,Audi,A4,5.0,Dédouanée,Non,8,309000
+Casablanca,2022,Automatique,Diesel,62499.5,Mercedes-Benz,220,5.0,Importée neuve,Non,8,650000
+Safi,2018,Automatique,Diesel,164999.5,Volkswagen,Tiguan,5.0,Dédouanée,Non,8,335000
+Casablanca,2022,Automatique,Essence,42499.5,Mini,One,3.0,WW au Maroc,Oui,9,235300
+Tanger,2018,Manuelle,Essence,114999.5,Fiat,Panda,5.0,WW au Maroc,Non,7,82000
+Casablanca,2015,Manuelle,Diesel,124999.5,Peugeot,3008,5.0,WW au Maroc,Oui,6,135000
+Fès,2015,Manuelle,Diesel,184999.5,Renault,Kangoo,5.0,WW au Maroc,Non,6,122000
+Oujda,2020,Automatique,Diesel,134999.5,Seat,Ateca,5.0,Dédouanée,Oui,8,273000
+Marrakech,2025,Automatique,Hybride,2499.5,Porsche,Cayenne,5.0,Importée neuve,Oui,17,1757500
+Fès,2021,Automatique,Diesel,124999.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,263000
+Rabat,2020,Automatique,Diesel,72499.5,Kia,Proceed,5.0,WW au Maroc,Oui,8,230000
+Marrakech,2025,Automatique,Hybride,2499.5,Porsche,Cayenne,5.0,Importée neuve,Oui,17,1757500
+Fès,2021,Automatique,Diesel,124999.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,263000
+Casablanca,2024,Automatique,Hybride,12499.5,Jeep,Wrangler,5.0,Dédouanée,Oui,11,680000
+Agadir,2023,Manuelle,Diesel,62499.5,Seat,Arona,5.0,WW au Maroc,Oui,6,209000
+Fès,2022,Automatique,Diesel,124999.5,Hyundai,Accent,5.0,WW au Maroc,Non,6,140000
+Marrakech,2017,Automatique,Diesel,224999.5,Hyundai,Santa Fe,5.0,WW au Maroc,Non,8,178000
+Fès,2021,Automatique,Diesel,92499.5,Peugeot,3008,5.0,WW au Maroc,Non,8,239000
+Casablanca,2018,Automatique,Diesel,154999.5,Mazda,CX-5,5.0,WW au Maroc,Non,9,195000
+Casablanca,2021,Automatique,Diesel,42499.5,Opel,Crossland,5.0,WW au Maroc,Oui,6,187000
+Fès,2023,Manuelle,Diesel,72499.5,Opel,Corsa,5.0,WW au Maroc,Non,6,143000
+Marrakech,2021,Automatique,Diesel,154999.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,295000
+Casablanca,2024,Automatique,Diesel,32499.5,Kia,Sportage,5.0,WW au Maroc,Oui,6,270000
+Rabat,2021,Manuelle,Diesel,92499.5,Dacia,Logan,5.0,WW au Maroc,Oui,6,137000
+Casablanca,2017,Manuelle,Diesel,67499.5,BMW,X1,5.0,WW au Maroc,Oui,6,198000
+Casablanca,2023,Automatique,Diesel,104999.5,BMW,X5,5.0,WW au Maroc,Oui,8,630000
+Tanger,2023,Automatique,Hybride,82499.5,Hyundai,Elantra,5.0,WW au Maroc,Oui,9,198000
+Agadir,2023,Manuelle,Diesel,92499.5,Dacia,Logan,5.0,WW au Maroc,Non,6,135000
+Casablanca,2019,Manuelle,Diesel,164999.5,Dacia,Sandero,3.0,WW au Maroc,Oui,6,122000
+Tanger,2023,Automatique,Hybride,82499.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,9,335000
+Casablanca,2019,Manuelle,Essence,77499.5,Kia,Picanto,5.0,WW au Maroc,Non,6,105000
+Casablanca,2012,Manuelle,Diesel,194999.5,Opel,Astra,3.0,WW au Maroc,Non,7,80000
+Tanger,2015,Automatique,Diesel,184999.5,Mercedes-Benz,Classe V,5.0,WW au Maroc,Non,9,318000
+Casablanca,2013,Manuelle,Diesel,194999.5,Toyota,Avensis,5.0,WW au Maroc,Oui,8,100000
+Casablanca,2012,Manuelle,Diesel,174999.5,Audi,A1,3.0,WW au Maroc,Oui,6,113000
+Meknès,2006,Manuelle,Diesel,274999.5,Citroën,Xsara,5.0,WW au Maroc,Non,8,60000
+Marrakech,1987,Manuelle,Diesel,224999.5,Volkswagen,Golf 2,5.0,Dédouanée,Non,6,25000
+Kénitra,2022,Automatique,Diesel,92499.5,Dacia,Duster,5.0,WW au Maroc,Non,6,210000
+Tanger,2017,Automatique,Diesel,194999.5,Audi,Q5,5.0,WW au Maroc,Non,8,269000
+Tanger,2020,Automatique,Diesel,72499.5,Volkswagen,Polo,5.0,Importée neuve,Non,6,250000
+Tanger,2015,Automatique,Diesel,194999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,253000
+Rabat,2021,Automatique,Essence,22499.5,Fiat,500,3.0,WW au Maroc,Oui,7,142000
+Casablanca,2021,Automatique,Hybride,62499.5,Toyota,RAV-4,5.0,WW au Maroc,Oui,14,280000
+Agadir,2021,Automatique,Diesel,144999.5,Audi,A4,5.0,WW au Maroc,Oui,8,345000
+Casablanca,2019,Automatique,Diesel,144999.5,Renault,Kadjar,5.0,WW au Maroc,Non,6,203000
+Tétouan,2023,Manuelle,Diesel,42499.5,Opel,Combo,5.0,WW au Maroc,Oui,6,175000
+Tit Mellil,2016,Manuelle,Diesel,104999.5,Volkswagen,Tiguan,3.0,WW au Maroc,Oui,8,198000
+Fès,2023,Manuelle,Diesel,52499.5,Renault,Clio,5.0,WW au Maroc,Oui,6,153000
+Casablanca,2019,Automatique,Diesel,72499.5,Land Rover,Range Rover Velar,5.0,WW au Maroc,Oui,8,415000
+Tanger,2020,Automatique,Diesel,134999.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Oui,12,455000
+Marrakech,2012,Automatique,Essence,134999.5,BMW,Série 5,5.0,Dédouanée,Non,25,135000
+Casablanca,2021,Manuelle,Diesel,67499.5,Seat,Ibiza,5.0,WW au Maroc,Oui,6,184000
+Ouarzazate,2015,Manuelle,Diesel,224999.5,Mercedes-Benz,Citan,5.0,Dédouanée,Oui,6,135000
+Tanger,2017,Automatique,Essence,47499.5,Mercedes-Benz,Classe S,3.0,Importée neuve,Oui,17,725000
+Marrakech,2022,Manuelle,Diesel,124999.5,Peugeot,208,5.0,WW au Maroc,Oui,6,159000
+Kénitra,2022,Automatique,Diesel,97499.5,Jeep,Renegade,5.0,WW au Maroc,Non,6,218000
+Casablanca,2014,Manuelle,Diesel,274999.5,Hyundai,i30,5.0,WW au Maroc,Oui,6,113000
+Fès,2022,Automatique,Diesel,124999.5,Hyundai,Accent,5.0,WW au Maroc,Non,6,142000
+Tanger,2022,Manuelle,Diesel,87499.5,Renault,Express,5.0,WW au Maroc,Oui,6,164000
+Casablanca,2022,Automatique,Diesel,72499.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,255000
+Tanger,2021,Automatique,Hybride,104999.5,Hyundai,Sonata,5.0,WW au Maroc,Oui,11,260000
+Casablanca,2017,Automatique,Diesel,87499.5,Volkswagen,New Beetle,5.0,WW au Maroc,Non,8,215000
+Agadir,2018,Automatique,Diesel,124999.5,Seat,Ateca,5.0,WW au Maroc,Oui,8,232000
+Casablanca,2023,Manuelle,Diesel,57499.5,Renault,Express,5.0,WW au Maroc,Oui,6,160000
+Casablanca,2018,Manuelle,Diesel,104999.5,Hyundai,Creta,5.0,WW au Maroc,Oui,6,175000
+Casablanca,2022,Automatique,Essence,42499.5,Mini,One,3.0,WW au Maroc,Oui,9,235300
+Ain Harrouda,2013,Manuelle,Diesel,224999.5,Seat,Leon,5.0,WW au Maroc,Non,6,135000
+Tanger,2022,Manuelle,Diesel,52499.5,Renault,Express,5.0,WW au Maroc,Oui,6,159000
+Casablanca,2022,Automatique,Diesel,97499.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,6,280000
+Agadir,2024,Automatique,Essence,2499.5,Ford,Mustang,3.0,WW au Maroc,Oui,13,540000
+Marrakech,2018,Automatique,Diesel,124999.5,Peugeot,3008,5.0,WW au Maroc,Oui,8,209000
+Casablanca,2022,Automatique,Diesel,97499.5,BMW,X1,5.0,WW au Maroc,Oui,8,290000
+Rabat,2017,Manuelle,Essence,47499.5,Opel,Corsa,5.0,WW au Maroc,Non,7,110000
+Fès,2004,Manuelle,Diesel,224999.5,Nissan,X-Trail,5.0,WW au Maroc,Non,9,75000
+Casablanca,2023,Manuelle,Diesel,92499.5,Opel,Combo,5.0,WW au Maroc,Oui,6,165000
+Tétouan,2020,Automatique,Essence,47499.5,Fiat,500,3.0,WW au Maroc,Non,7,124000
+Temara,2018,Automatique,Diesel,114999.5,Jeep,Renegade,5.0,WW au Maroc,Oui,6,184000
+Casablanca,2022,Automatique,Diesel,57499.5,BMW,Série 4,3.0,Importée neuve,Oui,8,580000
+Fès,2019,Automatique,Diesel,224999.5,Audi,A4,5.0,Dédouanée,Non,8,309000
+Casablanca,2019,Automatique,Diesel,124999.5,Audi,A5,3.0,WW au Maroc,Oui,8,315000
+Fès,2015,Manuelle,Diesel,184999.5,Renault,Kangoo,5.0,WW au Maroc,Non,6,122000
+Oujda,2020,Automatique,Diesel,134999.5,Seat,Ateca,5.0,Dédouanée,Oui,8,273000
+Tanger,2023,Automatique,Hybride,82499.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,9,335000
+Casablanca,2012,Manuelle,Diesel,194999.5,Opel,Astra,3.0,WW au Maroc,Non,7,80000
+Tanger,2015,Automatique,Diesel,184999.5,Mercedes-Benz,Classe V,5.0,WW au Maroc,Non,9,318000
+Casablanca,2013,Manuelle,Diesel,194999.5,Toyota,Avensis,5.0,WW au Maroc,Oui,8,100000
+Casablanca,2012,Manuelle,Diesel,174999.5,Audi,A1,3.0,WW au Maroc,Oui,6,113000
+Casablanca,2023,Automatique,Diesel,104999.5,Volkswagen,Touareg,3.0,Dédouanée,Non,12,420000
+Meknès,2006,Manuelle,Diesel,274999.5,Citroën,Xsara,5.0,WW au Maroc,Non,8,60000
+Marrakech,1987,Manuelle,Diesel,224999.5,Volkswagen,Golf 2,5.0,Dédouanée,Non,6,25000
+Kénitra,2022,Automatique,Diesel,92499.5,Dacia,Duster,5.0,WW au Maroc,Non,6,210000
+Tanger,2017,Automatique,Diesel,194999.5,Audi,Q5,5.0,WW au Maroc,Non,8,269000
+Tanger,2020,Automatique,Diesel,72499.5,Volkswagen,Polo,5.0,Importée neuve,Non,6,250000
+Tanger,2015,Automatique,Diesel,194999.5,Volkswagen,Tiguan,5.0,Dédouanée,Oui,8,253000
+Casablanca,2019,Automatique,Diesel,52499.5,Peugeot,3008,5.0,WW au Maroc,Oui,8,250000
+Rabat,2021,Automatique,Essence,22499.5,Fiat,500,3.0,WW au Maroc,Oui,7,142000
+Agadir,2021,Automatique,Diesel,144999.5,Audi,A4,5.0,WW au Maroc,Oui,8,345000
+Casablanca,2019,Automatique,Diesel,144999.5,Renault,Kadjar,5.0,WW au Maroc,Non,6,203000
+Tétouan,2023,Manuelle,Diesel,42499.5,Opel,Combo,5.0,WW au Maroc,Oui,6,175000
+Tit Mellil,2016,Manuelle,Diesel,104999.5,Volkswagen,Tiguan,3.0,WW au Maroc,Oui,8,198000
+Fès,2023,Manuelle,Diesel,52499.5,Renault,Clio,5.0,WW au Maroc,Oui,6,153000
+Casablanca,2019,Automatique,Diesel,72499.5,Land Rover,Range Rover Velar,5.0,WW au Maroc,Oui,8,415000
+Rabat,2017,Manuelle,Essence,47499.5,Opel,Corsa,5.0,WW au Maroc,Non,7,110000
+Fès,2004,Manuelle,Diesel,224999.5,Nissan,X-Trail,5.0,WW au Maroc,Non,9,75000
+Casablanca,2023,Manuelle,Diesel,92499.5,Opel,Combo,5.0,WW au Maroc,Oui,6,165000
+Tétouan,2020,Automatique,Essence,47499.5,Fiat,500,3.0,WW au Maroc,Non,7,124000
+Tanger,2020,Automatique,Diesel,134999.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Oui,12,455000
+Casablanca,2022,Automatique,Diesel,57499.5,BMW,Série 4,3.0,Importée neuve,Oui,8,580000
+Marrakech,2012,Automatique,Essence,134999.5,BMW,Série 5,5.0,Dédouanée,Non,25,135000
+Casablanca,2021,Manuelle,Diesel,67499.5,Seat,Ibiza,5.0,WW au Maroc,Oui,6,184000
+Ouarzazate,2015,Manuelle,Diesel,224999.5,Mercedes-Benz,Citan,5.0,Dédouanée,Oui,6,135000
+Tanger,2017,Automatique,Essence,47499.5,Mercedes-Benz,Classe S,3.0,Importée neuve,Oui,17,725000
+Marrakech,2022,Manuelle,Diesel,124999.5,Peugeot,208,5.0,WW au Maroc,Oui,6,159000
+Kénitra,2022,Automatique,Diesel,97499.5,Jeep,Renegade,5.0,WW au Maroc,Non,6,218000
+Temara,2018,Automatique,Diesel,104999.5,Mercedes-Benz,Classe CLS,5.0,Importée neuve,Oui,12,515000
+Casablanca,2018,Automatique,Diesel,154999.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,8,228000
+Safi,2012,Manuelle,Essence,224999.5,Renault,Clio,5.0,WW au Maroc,Non,7,73000
+El Jadida,2020,Manuelle,Diesel,92499.5,Hyundai,i20,5.0,WW au Maroc,Oui,6,142000
+Rabat,2021,Automatique,Diesel,174999.5,Audi,A6,5.0,WW au Maroc,Oui,8,325000
+Agadir,2011,Manuelle,Diesel,274999.5,Dacia,Duster,5.0,WW au Maroc,Non,6,105000
+Fès,2019,Automatique,Diesel,134999.5,Volkswagen,Golf 7,5.0,WW au Maroc,Non,8,168000
+Marrakech,2020,Automatique,Diesel,134999.5,Land Rover,Range Rover Sport,5.0,WW au Maroc,Non,12,570000
+Casablanca,2016,Automatique,Diesel,97499.5,Mercedes-Benz,Classe A,5.0,WW au Maroc,Oui,6,210000
+Casablanca,2018,Automatique,Diesel,124999.5,Volkswagen,Golf 7,5.0,Importée neuve,Oui,8,285000
+Bouskoura,2020,Automatique,Diesel,92499.5,Peugeot,2008,5.0,WW au Maroc,Non,6,220000
+Berrechid,2019,Manuelle,Diesel,87499.5,Peugeot,308,5.0,WW au Maroc,Non,6,160000
+Salé,2015,Manuelle,Diesel,154999.5,Dacia,Logan,5.0,WW au Maroc,Non,6,90000
+Casablanca,2012,Automatique,Diesel,22499.5,Peugeot,508,5.0,Importée neuve,Non,8,110000
+Marrakech,2019,Automatique,Diesel,114999.5,Jeep,Grand Cherokee,5.0,WW au Maroc,Oui,12,210000
+Marrakech,2013,Automatique,Diesel,154999.5,Mini,Countryman,3.0,Importée neuve,Non,8,148000
+Bouskoura,2018,Automatique,Diesel,164999.5,Opel,Mokka,5.0,WW au Maroc,Oui,6,165000
+Marrakech,2018,Automatique,Diesel,87499.5,DS,100,5.0,WW au Maroc,Non,8,265000
+Casablanca,2022,Automatique,Diesel,57499.5,Skoda,Kodiaq,5.0,WW au Maroc,Oui,8,399000
+Casablanca,2020,Automatique,Diesel,72499.5,Audi,Q2,5.0,WW au Maroc,Oui,8,267000
+Casablanca,2022,Automatique,Diesel,47499.5,Mercedes-Benz,220,5.0,Importée neuve,Non,8,410000
+Fès,2021,Manuelle,Diesel,144999.5,Ford,Fiesta,5.0,WW au Maroc,Oui,6,134000
+Fès,2020,Manuelle,Diesel,92499.5,Renault,Clio,5.0,WW au Maroc,Oui,6,119000
+Fès,2021,Manuelle,Diesel,134999.5,Citroën,C3,5.0,WW au Maroc,Oui,6,137000
+Berrechid,2019,Automatique,Diesel,124999.5,Seat,Ateca,5.0,Dédouanée,Non,6,240000
+Casablanca,2020,Manuelle,Diesel,92499.5,Peugeot,308,5.0,WW au Maroc,Oui,6,160000
+Tanger,2021,Automatique,Diesel,114999.5,Peugeot,208,5.0,Dédouanée,Non,6,146000
+Settat,2024,Manuelle,Diesel,22499.5,Citroën,Berlingo,3.0,WW au Maroc,Oui,6,170000
+Mohammedia,2018,Automatique,Diesel,184999.5,Audi,A3,5.0,Dédouanée,Oui,7,219000
+Rabat,2016,Manuelle,Diesel,154999.5,Peugeot,508,5.0,WW au Maroc,Non,6,119000
+Fès,2023,Manuelle,Diesel,92499.5,Peugeot,208,5.0,WW au Maroc,Oui,6,147000
+Fès,2021,Manuelle,Diesel,87499.5,Renault,Clio,5.0,WW au Maroc,Oui,6,123000
+Agadir,2022,Automatique,Diesel,134999.5,Dacia,Duster,5.0,WW au Maroc,Oui,6,193000
+Casablanca,2022,Automatique,Diesel,82499.5,Alfa Romeo,Giulia,5.0,WW au Maroc,Non,8,310000
+Fquih Ben Saleh,2024,Automatique,Diesel,37499.5,Peugeot,2008,5.0,WW au Maroc,Oui,6,250000
+Casablanca,2022,Manuelle,Diesel,42499.5,Renault,Captur,5.0,WW au Maroc,Oui,6,210000
+Casablanca,2018,Automatique,Essence,104999.5,Fiat,500,5.0,WW au Maroc,Oui,7,107000
+Rabat,2012,Manuelle,Diesel,124999.5,Mini,Countryman,3.0,Dédouanée,Oui,6,138000
+Casablanca,2022,Manuelle,Diesel,82499.5,Seat,Arona,5.0,WW au Maroc,Oui,6,175000
+Salé,2025,Manuelle,Diesel,12499.5,Dacia,Sandero,5.0,WW au Maroc,Oui,6,177000
+Casablanca,2019,Automatique,Diesel,184999.5,Land Rover,Range Rover Sport,5.0,Importée neuve,Oui,12,630000
+Marrakech,2022,Automatique,Electrique,27499.5,Jeep,Wrangler,5.0,Importée neuve,Oui,11,730000
+Marrakech,2018,Automatique,Diesel,194999.5,Alfa Romeo,Stelvio,5.0,WW au Maroc,Oui,8,210000
+Casablanca,2019,Automatique,Diesel,72499.5,Land Rover,Range Rover Velar,5.0,WW au Maroc,Oui,8,415000
+Casablanca,2018,Automatique,Diesel,144999.5,Renault,Megane,5.0,WW au Maroc,Non,6,162000
+Berrechid,2019,Manuelle,Diesel,87499.5,Peugeot,308,5.0,WW au Maroc,Non,6,160000
+Salé,2015,Manuelle,Diesel,154999.5,Dacia,Logan,5.0,WW au Maroc,Non,6,90000
+Casablanca,2012,Automatique,Diesel,22499.5,Peugeot,508,5.0,Importée neuve,Non,8,110000
+Marrakech,2019,Automatique,Diesel,114999.5,Jeep,Grand Cherokee,5.0,WW au Maroc,Oui,12,210000
+Marrakech,2013,Automatique,Diesel,154999.5,Mini,Countryman,3.0,Importée neuve,Non,8,148000
+Bouskoura,2018,Automatique,Diesel,164999.5,Opel,Mokka,5.0,WW au Maroc,Oui,6,165000
+Marrakech,2018,Automatique,Diesel,87499.5,DS,100,5.0,WW au Maroc,Non,8,265000
+Fès,2018,Automatique,Diesel,124999.5,Peugeot,3008,5.0,WW au Maroc,Oui,8,188000
+Casablanca,2011,Automatique,Diesel,194999.5,Audi,A4,5.0,Dédouanée,Non,8,108000
+Casablanca,2009,Automatique,Essence,124999.5,Bentley,Continental,5.0,Dédouanée,Oui,34,360000
+Safi,2020,Automatique,Diesel,114999.5,Mercedes-Benz,Classe E,5.0,Importée neuve,Oui,9,520000
+Casablanca,2018,Automatique,Diesel,124999.5,Volkswagen,Golf 7,5.0,Importée neuve,Oui,8,285000
+Bouskoura,2020,Automatique,Diesel,92499.5,Peugeot,2008,5.0,WW au Maroc,Non,6,220000
+Nador,2010,Automatique,Diesel,224999.5,Volkswagen,Polo,5.0,Dédouanée,Non,6,105000
+Casablanca,2009,Manuelle,Diesel,274999.5,Renault,Laguna,5.0,Importée neuve,Non,8,80000
+Casablanca,2017,Manuelle,Diesel,37499.5,Fiat,500,3.0,WW au Maroc,Oui,5,105000
+Fès,2019,Manuelle,Diesel,97499.5,Citroën,C3,5.0,WW au Maroc,Oui,6,120000
+Fès,2021,Automatique,Diesel,92499.5,Alfa Romeo,Giulietta,5.0,WW au Maroc,Oui,6,175000
+Mohammedia,2017,Automatique,Diesel,104999.5,Land Rover,Range Rover Sport,5.0,Importée neuve,Non,12,359000
+Mohammedia,2019,Automatique,Diesel,144999.5,BMW,X5,5.0,WW au Maroc,Non,12,479000
+Fès,2018,Automatique,Diesel,82499.5,Infiniti,Q30,5.0,Importée neuve,Oui,8,200000
+Fès,2005,Manuelle,Diesel,324999.5,Volkswagen,Gol,5.0,WW au Maroc,Non,8,40000
+Rabat,2020,Automatique,Diesel,77499.5,BMW,X6,5.0,WW au Maroc,Oui,10,640000
+Rabat,2021,Automatique,Diesel,67499.5,Mercedes-Benz,Classe GLE,5.0,Dédouanée,Oui,8,850000
+Agadir Melloul,2025,Automatique,Hybride,7499.5,Hyundai,Tucson,5.0,WW au Maroc,Oui,9,380000
+Agadir,2011,Manuelle,Diesel,154999.5,Skoda,Octavia,5.0,Dédouanée,Non,6,120000
+Agadir,2010,Manuelle,Diesel,154999.5,Skoda,Octavia,5.0,Dédouanée,Non,6,120000
+Tanger,2022,Automatique,Essence,62499.5,Land Rover,Range Rover Evoque,5.0,WW au Maroc,Oui,11,350000
+Tétouan,2012,Manuelle,Essence,144999.5,Ford,Ka,3.0,WW au Maroc,Oui,4,78000
+Rabat,2021,Automatique,Diesel,72499.5,Volkswagen,Golf 8,5.0,Importée neuve,Oui,8,395000
+Rabat,2020,Automatique,Diesel,77499.5,BMW,X6,5.0,WW au Maroc,Oui,10,640000
+Casablanca,2012,Manuelle,Diesel,194999.5,Audi,Q5,3.0,WW au Maroc,Oui,8,133000
+Casablanca,2023,Automatique,Diesel,37499.5,Audi,A6,5.0,WW au Maroc,Oui,8,395000
+Salé,2008,Manuelle,Essence,114999.5,Kia,Picanto,5.0,WW au Maroc,Non,6,62000
+Fès,2022,Automatique,Diesel,87499.5,Citroën,C5,5.0,WW au Maroc,Oui,8,248000
+Fquih Ben Saleh,2018,Automatique,Diesel,134999.5,Volkswagen,Tiguan,5.0,Dédouanée,Non,8,360000
+Fès,2022,Manuelle,Diesel,97499.5,Peugeot,208,5.0,WW au Maroc,Oui,6,152000
+Fès,2021,Automatique,Diesel,194999.5,Volkswagen,Touareg,5.0,WW au Maroc,Oui,12,550000
+Tanger,2021,Automatique,Diesel,97499.5,Volkswagen,T-Roc,5.0,WW au Maroc,Oui,8,258000
+Fès,2021,Automatique,Diesel,104999.5,Mercedes-Benz,Classe A,5.0,WW au Maroc,Oui,8,375000
