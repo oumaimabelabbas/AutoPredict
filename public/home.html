@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Prédiction du prix</title>
+
+  <!-- Police -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="home.css">
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="navbar">
+    <div class="nav-left">
+      <span class="logo">AutoPredict</span>
+    </div>
+
+    <div class="nav-right">
+      <a href="home.html" class="active">Accueil</a>
+      <a id="history-link">Prédictions sauvegardées</a>
+      <a href="login.html" class="login-btn" id="login-btn">Connexion</a>
+
+    </div>
+  </nav>
+
+  <!-- MAIN -->
+  <main class="container">
+
+    <h1>Prédire le prix d’une voiture</h1>
+
+    <form class="prediction-form">
+
+      <!-- Ville -->
+      <div class="field">
+        <label>Ville</label>
+        <select id="ville">
+          <option value="" selected>Choisir une ville</option>
+        </select>
+      </div>
+
+      <!-- Marque -->
+      <div class="field">
+        <label>Marque</label>
+        <select id="marque">
+          <option value="" selected>Choisir une marque</option>
+        </select>
+      </div>
+
+      <!-- Modèle -->
+      <div class="field">
+        <label>Modèle</label>
+        <select id="modele">
+          <option value="" selected>Choisir un modèle</option>
+        </select>
+      </div>
+
+      <!-- Année -->
+      <div class="field">
+        <label>Année du modèle</label>
+        <input id="annee" type="range" min="2000" max="2025" value="2015"
+               oninput="this.nextElementSibling.innerText = this.value">
+        <span class="range-value" id="annee-value">2015</span>
+      </div>
+
+      <!-- Kilométrage -->
+      <div class="field">
+        <label>Kilométrage (km)</label>
+        <input  id="kilometrage" type="range" min="2499.5" max="374999.5" step="500"
+               value="50000"
+               oninput="this.nextElementSibling.innerText = Math.round(this.value)">
+        <span class="range-value" id="km-value">50000</span>
+      </div>
+
+      <!-- Carburant -->
+      <div class="field">
+        <label>Type de carburant</label>
+        <select id="carburant">
+          <option value="" selected>Choisir le type de carburant</option>
+        </select>
+      </div>
+
+      <!-- Puissance fiscale -->
+      <div class="field">
+        <label>Puissance fiscale</label>
+        <input id="puissance" type="range" min="4" max="41" value="6"
+               oninput="this.nextElementSibling.innerText = this.value">
+        <span class="range-value" id="puissance-value">6</span>
+      </div>
+
+      <!-- Boite -->
+      <div class="field">
+        <label>Boite de vitesses</label>
+        <select id="boite">
+          <option value="" selected>Choisir boite de vitesses</option>
+        </select>
+      </div>
+
+      <!-- Portes -->
+      <div class="field">
+        <label >Nombre de portes</label>
+        <select id="porte">
+          <option value="" selected>Choisir nombre de portes</option>
+        </select>
+      </div>
+
+      <!-- Origine -->
+      <div class="field">
+        <label>Origine</label>
+        <select id="origine">
+          <option value="" selected>Choisir une origine</option>
+        </select>
+      </div>
+
+      <!-- Première main -->
+      <div class="field">
+        <label>Première main</label>
+        <select id="main">
+          <option>Oui</option>
+          <option>Non</option>
+        </select>
+      </div>
+
+      <button type="button" class="predict-btn">
+        Prédire le prix
+      </button>
+
+    </form>
+
+    <!-- RESULT -->
+    <div class="result-card">
+      <h2>Prix estimé</h2>
+      <p class="price">— DH</p>
+      <button class="save-btn">
+        Sauvegarder la prédiction
+      </button>
+      <p id="save-message" class="save-message"></p>
+    </div>
+
+  </main>
+<script src="home.js"></script>
+</body>
+</html>

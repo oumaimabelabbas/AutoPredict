@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+
+:root{
+  --accent-color: #160a5d;
+  --base-color: white;
+  --text-color: #50497a;
+  --input-color: #F3F0FF;
+}
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Poppins, sans-serif;
+}
+
+body{
+  background-color: #f5f3ff;
+  color: var(--text-color);
+}
+
+/* NAVBAR */
+.navbar{
+  height: 70px;
+  background: var(--base-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 40px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
+
+.logo{
+  font-weight: 800;
+  color: var(--accent-color);
+  font-size: 1.3rem;
+}
+
+.nav-right a{
+  margin-left: 25px;
+  text-decoration: none;
+  color: var(--text-color);
+  font-weight: 500;
+}
+
+.nav-right a:hover{
+  color: var(--accent-color);
+}
+
+/* MAIN CONTAINER */
+.container{
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+h1{
+  text-align: center;
+  color: var(--accent-color);
+  margin-bottom: 30px;
+}
+
+/* HISTORIQUE DES PRÉDICTIONS */
+#history-container{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.prediction-card{
+  background: var(--base-color);
+  border-radius: 15px;
+  padding: 20px 25px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.prediction-card:hover{
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+.prediction-card p{
+  margin: 5px 0;
+  font-size: 0.95rem;
+}
+
+.prediction-card p strong{
+  color: var(--accent-color);
+}
+
+.prediction-card hr{
+  margin: 15px 0;
+  border: 0;
+  border-top: 1px solid #eee;
+}
+
+/* TEXTE SI AUCUNE PRÉDICTION */
+.no-history{
+  text-align: center;
+  font-style: italic;
+  color: gray;
+  margin-top: 30px;
+  font-size: 1rem;
+}
