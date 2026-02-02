@@ -23,8 +23,3 @@ Le projet couvre tout le cycle : collecte des données, modélisation machine le
 - Déploiement du modèle via une API REST avec FastAPI  
 - Interface web full-stack pour accéder aux prédictions  
 - Authentification JWT, sauvegarde et historique des prédictions  
-
-## Instructions pour lancer le projet
-1. Cloner le dépôt :
-```bash
-git clone https://github.com/ton-utilisateur/AutoPredict.git
