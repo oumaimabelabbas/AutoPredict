@@ -18,7 +18,7 @@ Le projet couvre tout le cycle : collecte des données, modélisation machine le
   - Tests et validation des modèles
 
 ## Fonctionnalités principales
-- Scraping des annonces sur Avito et préparation du dataset CSV  
+- Scraping des données et préparation du dataset CSV  
 - Entraînement et évaluation de modèles de régression et réseaux neuronaux  
 - Déploiement du modèle via une API REST avec FastAPI  
 - Interface web full-stack pour accéder aux prédictions  
