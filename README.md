@@ -1,10 +1,10 @@
 # AutoPredict
 
 **AutoPredict** est un projet de prédiction du prix des voitures d’occasion au Maroc.  
-Le projet couvre tout le cycle : collecte des données, modélisation machine learning et deep learning, déploiement via API REST et interface web full-stack.
+Le projet couvre tout le cycle : collecte des données, modélisation machine learning et deep learning, déploiement via API REST et interface web.
 
 ## Technologies utilisées
-- **Data & ML** : Python, Pandas, Selenium, BeautifulSoup, scikit-learn, TensorFlow  
+- **Data & ML** : Python, Pandas, Selenium, BeautifulSoup, scikit-learn, TensorFlow 
 - **Backend** : FastAPI, Node.js, Express, MongoDB  
 - **Frontend** : HTML, CSS, JavaScript  
 - **Sécurité** : JWT pour l’authentification  
