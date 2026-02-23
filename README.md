@@ -1,25 +1,28 @@
 # AutoPredict
+AutoPredict is a used car price prediction project for the Moroccan market.  
+The project covers the complete pipeline: data collection, machine learning and deep learning modeling, deployment through a REST API, and integration into a web application.
 
-**AutoPredict** est un projet de prédiction du prix des voitures d’occasion au Maroc.  
-Le projet couvre tout le cycle : collecte des données, modélisation machine learning et deep learning, déploiement via API REST et interface web.
+## Technologies Used
 
-## Technologies utilisées
-- **Data & ML** : Python, Pandas, Selenium, BeautifulSoup, scikit-learn, TensorFlow 
-- **Backend** : FastAPI, Node.js, Express, MongoDB  
-- **Frontend** : HTML, CSS, JavaScript  
-- **Sécurité** : JWT pour l’authentification  
+**Data & ML:** Python, Pandas, Selenium, BeautifulSoup, scikit-learn, TensorFlow  
+**Backend:** FastAPI, Node.js, Express, MongoDB  
+**Frontend:** HTML, CSS, JavaScript  
+**Security:** JWT authentication  
 
-## Structure des branches
-- **master** : interface web et déploiement (Node.js + MongoDB + frontend)  
-- **ml_pipeline** : notebooks Jupyter contenant toutes les étapes ML :
-  - Scraping et nettoyage des données
-  - Préparation du dataset
-  - Entraînement et comparaison de modèles (Linear, Polynomial, Decision Tree, Random Forest, SVR, ANN)
-  - Tests et validation des modèles
+## Branch Structure
 
-## Fonctionnalités principales
-- Scraping des données et préparation du dataset CSV  
-- Entraînement et évaluation de modèles de régression et réseaux neuronaux  
-- Déploiement du modèle via une API REST avec FastAPI  
-- Interface web full-stack pour accéder aux prédictions  
-- Authentification JWT, sauvegarde et historique des prédictions  
+**master:** Web interface and deployment (Node.js + MongoDB + frontend)  
+**ml_pipeline:** Jupyter notebooks containing all ML stages:
+
+- Data scraping and cleaning  
+- Dataset preparation  
+- Training and comparison of models (Linear Regression, Polynomial Regression, Decision Tree, Random Forest, SVR, ANN)  
+- Model testing and validation  
+
+## Key Features
+
+- Data scraping and CSV dataset preparation  
+- Training and evaluation of regression models and neural networks  
+- Model deployment via REST API using FastAPI  
+- Full-stack web interface for accessing predictions  
+- JWT authentication, prediction storage, and history tracking
