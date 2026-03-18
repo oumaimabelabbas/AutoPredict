@@ -21,7 +21,7 @@ The project covers the complete pipeline: data collection, machine learning and 
 
 ## Key Features
 
-- Data scraping and CSV dataset preparation  
+- Data collection and CSV dataset preparation  
 - Training and evaluation of regression models and neural networks  
 - Model deployment via REST API using FastAPI  
 - Full-stack web interface for accessing predictions  
